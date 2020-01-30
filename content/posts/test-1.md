@@ -1,10 +1,10 @@
 +++
-title = "Test 1"
-tags = ["test"]
-date = "1012-01-01"
+title = "Welcome to my blog"
+tags = ["welcome"]
+date = "2020-01-30"
 +++
 
-Test 1
+WELCOME
 I am referencing a footnote[^1]
 
 
