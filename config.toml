@@ -13,15 +13,11 @@ avatar = "avatar.jpg"
 
     url = "https://github.com/nnnavi/"
 
-  [[params.social]]
+ 
 
-    name = ""
-
-    url = ""
-
- [params.style]
-  darkestColor = "#d35050"
-  darkColor = "#212121"
-  lightColor = "#f5e3e0"
-  lightestColor = "#f5f5f5"
-  primaryColor = "#fff"
+ #[params.style]
+ # darkestColor = "#d35050"
+#  darkColor = "#212121"
+ # lightColor = "#f5e3e0"
+  #lightestColor = "#f5f5f5"
+ # primaryColor = "#fff"
