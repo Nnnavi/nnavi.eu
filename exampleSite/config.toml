@@ -1,6 +1,6 @@
 baseURL = "https://www.nnavi.eu/"
 title = "My language diaries"
-themesDir = "/themes"
+themesDir = "themes"
 # theme = "hugo-theme-m10c"
 paginate = 5
 
