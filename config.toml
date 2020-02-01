@@ -1,4 +1,4 @@
-baseURL = "http://www.nnavi.eu/"
+baseURL = "http://www.nnavi.eu"
 languageCode = "en-us"
 title = "My language diaries"
 theme = "hugo-theme-m10c"
@@ -11,7 +11,7 @@ avatar = "avatar.jpg"
 
     name = "github"
 
-    url = "https://github.com/nnnavi/"
+    url = "https://github.com/nnnavi"
 
  
 
