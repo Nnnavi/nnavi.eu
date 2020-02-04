@@ -6,7 +6,8 @@ theme = "hugo-theme-nnavi"
 author = "Nnavi"
 description = "На мама и татко. Обичам ви!"
 avatar = "avatar.jpg"
-
+dateFormat = "Mon, Jan 2, 2006"
+intro = true
 
   
  [[params.social]]

@@ -1,7 +1,0 @@
-+++
-title = "Test 2"
-tags = ["test"]
-date = "1015-01-02"
-+++
-
-Test 2
