@@ -1,12 +1,15 @@
 baseURL = "http://www.nnavi.eu"
 languageCode = "en-us"
 title = "My language diaries"
-theme = "hugo-theme-m10c"
+theme = "hugo-theme-nnavi"
 [params]
 author = "Nnavi"
-description = "Spanish Italian Portuguese"
+description = "На мама и татко. Обичам ви!"
 avatar = "avatar.jpg"
-
+[permalinks]
+  spanish = "/:section/"
+  italian = "/:section/"
+  portuguese = "/:section/"
  [[params.social]]
 
     name = "github"
