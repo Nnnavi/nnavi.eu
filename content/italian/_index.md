@@ -1,9 +1,9 @@
 ---
-title: My Italian Diary
+title: Il mio diario italiano
 date: 2020-01-20
 publishdate: 2020-02-01
 ---
 
-I decided to start writing a diary in Italian about my language studies.
+Ho deciso di iniziare a scrivere un diario in italiano sui miei studi di lingua.
 
-Follow my journey through this new blog.
+Segui il mio viaggio attraverso questo nuovo blog.

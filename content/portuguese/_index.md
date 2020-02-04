@@ -1,9 +1,12 @@
 ---
-title: My Portuguese Diary
+title: O meu diário português
 date: 2020-01-20
 publishdate: 2020-02-01
+draft: false
+type: section
 ---
+ 
 
-I decided to start writing a diary in Portuguese about my language studies.
+Decidi começar a escrever um diário em português sobre meus estudos de idiomas.
 
-Follow my journey through this new blog.
+Siga minha viagem através deste novo blog.

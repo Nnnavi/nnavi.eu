@@ -1,9 +1,11 @@
 ---
-title: My Spanish Diary
+title: Mi diario español
 date: 2020-01-20
 publishdate: 2020-02-01
+draft: false
+
 ---
 
-I decided to start writing a diary in Spanish about my language studies.
+Decidí que iniciar escribir un diario en español sobre mis estudios de la lengua.
+Síga mi viaje en este blog.
 
-Follow my journey through this new blog.
