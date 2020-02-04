@@ -2,6 +2,8 @@
 title =  "My new language diaries"
 tags = ["languages", "english"]
 date = "2020-01-28"
+disableToc = "false"
+show_comments = false
 +++
 
 ## Introduction

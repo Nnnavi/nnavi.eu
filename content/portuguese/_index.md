@@ -3,7 +3,6 @@ title: O meu diário português
 date: 2020-01-20
 publishdate: 2020-02-01
 draft: false
-type: section
 ---
  
 

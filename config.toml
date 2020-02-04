@@ -7,12 +7,7 @@ author = "Nnavi"
 description = "На мама и татко. Обичам ви!"
 avatar = "avatar.jpg"
 
-[permalinks]
 
-  posts =  "/:section/"
-  spanish = "/:section/"
-  italian = "/:section/"
-  portuguese = "/:section/"
   
  [[params.social]]
 
