@@ -1,4 +1,4 @@
-baseURL = "http://www.nnavi.eu"
+baseURL = "https://www.nnavi.eu"
 languageCode = "en-us"
 title = "My language diaries"
 theme = "hugo-theme-nnavi"
