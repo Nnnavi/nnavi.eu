@@ -22,11 +22,11 @@
       <p>{{ .Site.Params.description | default "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium." }}</p>
 	 <div style="font-size:8pt">
 	  <h1><a href="/posts/">Main</a></h1>
-	  <h1><a href="/spanish/">Spanish</a></h1>
-	  <h1><a href="/italian/">Italian</a></h1>
-	  <h1><a href="/portuguese/">Portuguese</a></h1>
+	  <h2><a href="/spanish/">Spanish</a></h2>
+	  <h2><a href="/italian/">Italian</a></h2>
+	  <h2><a href="/portuguese/">Portuguese</a></h2>
 	  </div>
-        <h1><a href=/about>About me</a></h1>
+        <h3><a href=/about>About me</a></h3>
 	  <div class="app-header-social">
         {{ range .Site.Params.social }}
           <a target="_blank" href="{{ .url }}" rel="noreferrer noopener">{{ partial "icon.html" (dict "ctx" $ "name" .name ) }}</a>
