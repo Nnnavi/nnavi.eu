@@ -24,3 +24,4 @@ disableToc = "false"
 - [] add contact form
 - [] add archetypes and some new css, reorganize layouts, add more partials
 - [] experimenting with new fonts
+- [] to implement bars for development of my studies/readings - like HTML tag progress
