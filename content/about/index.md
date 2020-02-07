@@ -3,6 +3,7 @@ title = "about"
 description = "about this site"
 date = "2020-02-04"
 disableTOC = "false"
+prettify = "true"
 +++
 
 ## about me
@@ -14,7 +15,7 @@ but occasionally I will post some other things about language learning at all. I
 
 
 
-## some of my lerning materials
+## some of my learning materials
 
 I made these materials to help me with learning and memorizing. Feel free to use them and modify them. 
 
