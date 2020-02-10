@@ -54,80 +54,119 @@ started to write this diary in Portuguese - very shy but started.
 
 All I could say is that for these three or four months I better my listening comprehension and start to build writing and speaking skills. I realized that I read a little, I think insufficient, and had not trained the grammar. I autoestimate my success with this table.
 
-|             | Before  | Now   |
-|-------------|---------|-------|
-|Listen       |   3     |   5   |
-|Speak        |   2     |   3   |
-|Read         |   4     |   3   |
-|Write        |   2     |   3   |
-|Grammar      |   4     |   3   |
-|Pronunciation|   3     |   4   |
-|__Average__  |   __3__ |__3.5__|
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-7btt">Before</th>
+    <th class="tg-7btt">Now</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Listen</td>
+    <td class="tg-baqh">3</td>
+    <td class="tg-baqh">5</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Speak</td>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Read</td>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Write</td>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Grammar</td>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Pronunciation</td>
+    <td class="tg-baqh">3</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Average</td>
+    <td class="tg-amwm">3</td>
+    <td class="tg-amwm">3.5</td>
+  </tr>
+</table>
 
-(Great - I train a table in Markdown!)
+(Great - I train a table in Markdown! - and it not function! Marvelous! After many hours of reading I made HTML table because nothing else work)
+
 (scale from 2 - very bad to 6 grade - excellent)
 
 By "Grammar" I understand "overall comprehension".
 I think I have a progress. But I think too that I am trapped between all these goals. I think I better some skills but worse others. This is what I like to do compared to what I do now.
 
-|             | Like to do  | Now   |
-|-------------|-------------|-------|
-|Listen       |   4         |   5   |
-|Speak        |   3         |   3   |
-|Read         |   6         |   3   |
-|Write        |   5         |   3   |
-|Grammar      |   6         |   3   |
-|Pronunciation|   3         |   4   |
-|__Average__  |   __4.5__   |__3.5__|
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
     <th class="tg-0pky"></th>
-    <th class="tg-0pky">Like to do</th>
-    <th class="tg-0pky">Now</th>
+    <th class="tg-7btt">Like to do</th>
+    <th class="tg-7btt">Now</th>
   </tr>
   <tr>
     <td class="tg-0pky">Listen</td>
-    <td class="tg-0pky">4</td>
-    <td class="tg-0pky">5</td>
+    <td class="tg-c3ow">4</td>
+    <td class="tg-c3ow">5</td>
   </tr>
   <tr>
     <td class="tg-0pky">Speak</td>
-    <td class="tg-0pky">3</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">3</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-0pky">Read</td>
-    <td class="tg-0pky">6</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">6</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-0pky">Write</td>
-    <td class="tg-0pky">5</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">5</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-0pky">Grammar</td>
-    <td class="tg-0pky">6</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow">6</td>
+    <td class="tg-c3ow">3</td>
   </tr>
   <tr>
     <td class="tg-0pky">Pronunciation</td>
-    <td class="tg-0pky">3</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-c3ow">3</td>
+    <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">__Average__</td>
-    <td class="tg-0pky">__4.5__</td>
-    <td class="tg-0pky">__3.5__</td>
+    <td class="tg-fymr">Average</td>
+    <td class="tg-7btt">4.5</td>
+    <td class="tg-7btt">3.5</td>
   </tr>
 </table>
+
 I think that I have good progress with listening and obviously I have to keep going ahead and make this progress my everyday habit. Although I think writing is better but I have to keep the tendency and to make it my everyday habit.
 
 # Lýdia Machová - The power of setting priorities in language learning
@@ -137,18 +176,66 @@ I listened her lecture from the Polyglot Conference in Bratislava. She talked ab
  From this lecture I like very much her 4 pillars: fun, quantity, frequency and system.
  Let put them in a table:
 
-|     |          | Love to do  | dislike    | Average   |
-|-----|----------|-------------|------------|-----------|
-| 1.  | fun      |  grammar    | speaking   | writing   |
-|     |          |  reading    | vocabulary | listening |
-| 2.  | quantity |  grammar    | speaking   | listening |
-|     |          |  reading    | vocabulary |           |
-|     |          |  writing    |            |           |
-| 3.  | frequency|  reading    | speaking   | listening |
-|     |          |  grammar    | vocabulary |           |
-|     |          |  writing    |            |           |
-| 4.  | system   |  grammar    | speaking   | listening |
-|     |          |  writing    | vocabulary |  reading  |
+ <style type="text/css">
+ .tg  {border-collapse:collapse;border-spacing:0;}
+ .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+ .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+ .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+ .tg .tg-baqh{text-align:center;vertical-align:top}
+ .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+ .tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
+ .tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+ .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+ </style>
+ <table class="tg">
+   <tr>
+     <th class="tg-0pky"></th>
+     <th class="tg-fymr"></th>
+     <th class="tg-7btt">Love to do</th>
+     <th class="tg-amwm">dislike</th>
+     <th class="tg-amwm">Average</th>
+   </tr>
+   <tr>
+     <td class="tg-1wig" rowspan="2">1.</td>
+     <td class="tg-1wig" rowspan="2">fun</td>
+     <td class="tg-baqh" rowspan="2">grammar<br>reading</td>
+     <td class="tg-baqh" rowspan="2">speaking <br>vocabulary</td>
+     <td class="tg-baqh" rowspan="2">writing<br>listening</td>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+     <td class="tg-1wig" rowspan="3">2.</td>
+     <td class="tg-1wig" rowspan="3">quantity</td>
+     <td class="tg-baqh" rowspan="3">grammar <br>reading<br>writing</td>
+     <td class="tg-baqh" rowspan="3">speaking <br>vocabulary</td>
+     <td class="tg-baqh" rowspan="3">listening</td>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+     <td class="tg-1wig" rowspan="3">3.</td>
+     <td class="tg-1wig" rowspan="3">frequency</td>
+     <td class="tg-baqh" rowspan="3">reading <br>grammar<br>writing</td>
+     <td class="tg-baqh" rowspan="3">speaking<br>vocabulary</td>
+     <td class="tg-baqh" rowspan="3">listening</td>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+     <td class="tg-1wig" rowspan="2">4.</td>
+     <td class="tg-1wig" rowspan="2">system</td>
+     <td class="tg-baqh" rowspan="2">grammar<br>writing</td>
+     <td class="tg-baqh" rowspan="2">speaking<br>vocabulary</td>
+     <td class="tg-baqh" rowspan="2">listening<br>reading</td>
+   </tr>
+   <tr>
+   </tr>
+ </table>
 
 For speaking, vocabulary, listening and reading I have no system. It is obvious that I dislike speaking and vocabulary and I have to do something with this.
 
@@ -167,37 +254,135 @@ She proposed a program that I liked:
 
 2-3 priorities for 2-3 months (4 months past already)
 
-
-|    |  She proposed |     I think for me |
-|:--:|:-------------:|:------------------:|
-| 1. |   listening   |        OK          |
-| 2. | pronunciation |        OK          |
-| 3. |   vocabulary  | I tried grammar    |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-c3ow"></th>
+    <th class="tg-7btt">She proposed</th>
+    <th class="tg-7btt">I think for me</th>
+  </tr>
+  <tr>
+    <td class="tg-baqh">1.</td>
+    <td class="tg-baqh">listening</td>
+    <td class="tg-baqh">OK</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2.</td>
+    <td class="tg-baqh">pronunciation</td>
+    <td class="tg-baqh">OK</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">3.</td>
+    <td class="tg-baqh">vocabulary</td>
+    <td class="tg-baqh">I tried grammar</td>
+  </tr>
+</table>
 
 Then next 3 months (now)
 
-|    | She proposed |              I think for me      |
-|:--:|:------------:|:--------------------------------:|
-| 1. |   speaking   | Not sure, better reading/grammar |
-| 2. |  vocabulary  |                OK                |
-| 3. |   listening  |                OK                |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-c3ow"></th>
+    <th class="tg-7btt">She proposed</th>
+    <th class="tg-7btt">I think for me</th>
+  </tr>
+  <tr>
+    <td class="tg-baqh">1.</td>
+    <td class="tg-baqh">speaking</td>
+    <td class="tg-baqh">Not sure, better reading/grammar</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2.</td>
+    <td class="tg-baqh">vocabulary</td>
+    <td class="tg-baqh">OK</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">3.</td>
+    <td class="tg-baqh">listening</td>
+    <td class="tg-baqh">OK</td>
+  </tr>
+</table>
 
 Then next 2 months
 
-|    | She proposed |          I think for me  |
-|:--:|:------------:|:------------------------:|
-| 1. |   speaking   | Not sure, better reading |
-| 2. |    grammar   |            OK            |
-| 3. |    reading   |            OK            |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-c3ow"></th>
+    <th class="tg-7btt">She proposed</th>
+    <th class="tg-7btt">I think for me</th>
+  </tr>
+  <tr>
+    <td class="tg-baqh">1.</td>
+    <td class="tg-baqh">speaking</td>
+    <td class="tg-baqh">Not sure, better reading</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2.</td>
+    <td class="tg-baqh">grammar</td>
+    <td class="tg-baqh">OK</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">3.</td>
+    <td class="tg-baqh">reading</td>
+    <td class="tg-baqh">OK</td>
+  </tr>
+</table>
 
 Then next 3 months
 
-|    | She proposed | I think for me |
-|:--:|:------------:|:--------------:|
-| 1. |    writing   |       OK       |
-| 2. |   speaking   |       OK       |
-| 3. |  vocabulary  |       OK       |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-c3ow"></th>
+    <th class="tg-7btt">She proposed</th>
+    <th class="tg-7btt">I think for me</th>
+  </tr>
+  <tr>
+    <td class="tg-baqh">1.</td>
+    <td class="tg-baqh">writing</td>
+    <td class="tg-baqh">OK</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2.</td>
+    <td class="tg-baqh">speaking</td>
+    <td class="tg-baqh">OK</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">3.</td>
+    <td class="tg-baqh">vocabulary</td>
+    <td class="tg-baqh">OK</td>
+  </tr>
+</table>
 
 I like benefits of the priorities she explained:
 
