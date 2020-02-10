@@ -9,14 +9,14 @@ avatar = "avatar.jpg"
 dateFormat = "Mon, Jan 2, 2006"
 intro = true
 
-  
+
  [[params.social]]
 
     name = "github"
 
     url = "https://github.com/nnnavi"
 
- 
+
 
  #[params.style]
  # darkestColor = "#d35050"
@@ -54,7 +54,7 @@ quality = 75
 # Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 anchor = "smart"
 
-# Default background color. 
+# Default background color.
 # Hugo will preserve transparency for target formats that supports it,
 # but will fall back to this color for JPEG.
 # Expects a standard HEX color string with 3 or 6 digits.
@@ -85,10 +85,15 @@ disableLatLong = false
  [params.favicon]
   # you may want to use https://realfavicongenerator.net to generate you files
   # used in layouts/partials/head.favicon.html
-  # relURL is applied to path 
+  # relURL is applied to path
   enable    = true
   path      = "/static/favicons"
   version   = "a_random_value"
-  maskIicon = "#5bbad5" 
-  tileColor = "#da532c" 
-  themeColor= "#ffffff" 
+  maskIicon = "#5bbad5"
+  tileColor = "#da532c"
+  themeColor= "#ffffff"
+
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

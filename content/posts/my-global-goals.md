@@ -4,6 +4,7 @@ tags = ["languages", "english"]
 date = "2020-02-08"
 disableToc = "false"
 show_comments = false
+
 +++
 
 # Intro
@@ -114,16 +115,18 @@ I like how she organized language skills into these categories:
 - pronunciation
 
 The last two I combined it above but I think is good to be separated. I hate vocabulary but average like pronunciation.
-She proposed a program that I liked=
+She proposed a program that I liked:
 
 2-3 priorities for 2-3 months (4 months past already)
-{{< table >}}
+
+
 |    |  She proposed |     I think for me |
 |:--:|:-------------:|:------------------:|
 | 1. |   listening   |        OK          |
 | 2. | pronunciation |        OK          |
 | 3. |   vocabulary  | I tried grammar    |
-{{< table />}}
+
+
 Then next 3 months (now)
 
 |    | She proposed |              I think for me      |
