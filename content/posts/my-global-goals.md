@@ -117,13 +117,13 @@ The last two I combined it above but I think is good to be separated. I hate voc
 She proposed a program that I liked=
 
 2-3 priorities for 2-3 months (4 months past already)
-
+{{< table >}}
 |    |  She proposed |     I think for me |
 |:--:|:-------------:|:------------------:|
 | 1. |   listening   |        OK          |
 | 2. | pronunciation |        OK          |
 | 3. |   vocabulary  | I tried grammar    |
-
+{{< table />}}
 Then next 3 months (now)
 
 |    | She proposed |              I think for me      |
@@ -180,4 +180,4 @@ And for a nice end - letter of Eva (English teacher):
 
   He speak about focus on work itself not only to do the goal (I agree and do this), systematic, efficient, effective learning - I am not good here. I am not so systematic, try to learn every day but cannot. I have no stress in learning but face some lack of confidence and burn-off from time to time. I feel exausted frequently - mostly when speak or listen. And I feel so bored when I learn new words that I have to try ome new techniques - flascards are boring(tried Anki and Memrise - they are good but have to be combined with something else maybe, I cannot make them my habit), Duolingo - too (only 3-4 times a year is not boring for me). Maybe I try to combine flashcards that pronounce words with speaking ("shadowing"? maybe) and old-school writing new words for 5 rows and pronounce them (maybe only for hard to remember words). The old-school method was efficient but slow and made you mad from speaking one thing on and on till became breathless, voiceless and handless from writing.
 
-  For me the most interesting was the second lecture about Reading. I am a big fan of reading and read every day but now only 5 pages maximum. Some days I give up everything and read all the day and this is a true  pleasure for me.  According to what he said if I want to read a novel I have to know about 9 000 - 15 000 word families. I make the test in the site he pointed - <https://my.vocabularysize.com/session/evstxx> and the test shows me that I have 9 300 English words families. I was read before years some books in English but nowadays I read only books about web development, language Learning and grammar books in English. Maybe I have to start reading non-fiction literature. I have to try the rule for 6 unknown words in a page but I think I probably get many more. 
+  For me the most interesting was the second lecture about Reading. I am a big fan of reading and read every day but now only 5 pages maximum. Some days I give up everything and read all the day and this is a true  pleasure for me.  According to what he said if I want to read a novel I have to know about 9 000 - 15 000 word families. I make the test in the site he pointed - <https://my.vocabularysize.com/session/evstxx> and the test shows me that I have 9 300 English words families. I was read before years some books in English but nowadays I read only books about web development, language Learning and grammar books in English. Maybe I have to start reading non-fiction literature. I have to try the rule for 6 unknown words in a page but I think I probably get many more.
