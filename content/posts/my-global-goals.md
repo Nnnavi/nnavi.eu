@@ -80,6 +80,54 @@ I think I have a progress. But I think too that I am trapped between all these g
 |Pronunciation|   3         |   4   |
 |__Average__  |   __4.5__   |__3.5__|
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky">Like to do</th>
+    <th class="tg-0pky">Now</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Listen</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">5</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Speak</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Read</td>
+    <td class="tg-0pky">6</td>
+    <td class="tg-0pky">3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Write</td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Grammar</td>
+    <td class="tg-0pky">6</td>
+    <td class="tg-0pky">3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Pronunciation</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">__Average__</td>
+    <td class="tg-0pky">__4.5__</td>
+    <td class="tg-0pky">__3.5__</td>
+  </tr>
+</table>
 I think that I have good progress with listening and obviously I have to keep going ahead and make this progress my everyday habit. Although I think writing is better but I have to keep the tendency and to make it my everyday habit.
 
 # Lýdia Machová - The power of setting priorities in language learning
