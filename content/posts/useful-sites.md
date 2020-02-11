@@ -2,7 +2,7 @@
 title = "Useful Sites"
 date = 2020-02-11T13:06:20+02:00
 draft = "false"
-tags = "english","languages"
+tags = ["english","languages"]
 disableToc = "false"
 show_comments = "false"
 lastmod = "2020-02-11T13:06:20+02:00"

@@ -2,7 +2,7 @@
 title = "{{ replace .Name "-" " " | title }}"
 date = {{ .Date }}
 draft = "true"
-tags = "portuguese","languages"
+tags = ["portuguese","languages"]
 disableToc = "false"
 show_comments = false
 lastmod = "{{ .Date }}"
