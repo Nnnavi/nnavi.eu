@@ -4,10 +4,11 @@ tags = ["languages", "english"]
 date = "2020-02-08"
 disableToc = "false"
 show_comments = false
+summary = "Some lectures that inspired me to define my global goals in language learning. My thoughts and notes."
 
 +++
 
-# Intro
+## Intro
 
 Yesterday I listen 4 lectures from Polyglot Conference 2016 in Thessaloniki, Greece on YouTube. The lectures were:
 
@@ -24,7 +25,7 @@ Yesterday I listen 4 lectures from Polyglot Conference 2016 in Thessaloniki, Gre
 
 I was eager to listen these polyglots who I follow in YouTube. Actually I was not listened prof. Arguelles before but was read some of his famous posts in HTLAL forum 5 years ago. I like to listen lectures about language learning, techniques and ideas. I am in a period of my life that I have to consolidate my speaking skills, to focus on some weak points and to reach high level in some of them. So I decided - as one of my goals this year - to listen/read about these techniques, to summarize what is useful for me and I agree with and to implement it actively in my language learning practice. I have to say that listening YouTube videos or listening podcasts is relatively new to me as a practice from maybe a year. The basic information about language learning I know from books and HTLAL forum. I prefer to read than to listen but nowadays I feel more confident in listening.
 
-# What I missed
+## What I missed
 
 I understand that I made some mistakes. Some of them are:
 - I have no system in my language learning (strategy);
@@ -41,7 +42,7 @@ So I take notes during the lectures I think about want can do.  I realized that 
 
 And these questions will be my next posts. When I listen lectures I realized that I already use some of their techniques and I agree with some of their ideas. Maybe would be a great point to continue to use some of my habits if they work for me. But before I decide O inevitably have to make a deep understanding of what I am using now and which of these techniques I use, like, dislike. So this diary will help me with this not so easy task but rather boring.
 
-# What I did last four months with Portuguese
+## What I did last four months with Portuguese
 
 I did these things:
 - I review what kind of learning materials I have and decide to use 2 manuals at once;
@@ -169,7 +170,7 @@ I think I have a progress. But I think too that I am trapped between all these g
 
 I think that I have good progress with listening and obviously I have to keep going ahead and make this progress my everyday habit. Although I think writing is better but I have to keep the tendency and to make it my everyday habit.
 
-# Lýdia Machová - The power of setting priorities in language learning
+## Lýdia Machová - The power of setting priorities in language learning
 
 I listened her lecture from the Polyglot Conference in Bratislava. She talked about what polyglots do differently in language learning - a very interesting lecture I listen twice.
 
@@ -409,7 +410,7 @@ In addition, for a nice end - letter of Eva (English teacher):
 >"I have realized that __my attitude__ towards English __was wrong the whole years.__ When I wanted to improve my English at home I tried to focus on everything  - on grammar, listening, reading, vocabulary, etc. __I was lost__ because I didn't know how to find the system in language learning.
   Thanks to __concentrating on 3 priorities,__ I have found my lost motivation and I have __started to like English again__ :)"
 
-  # Lectures of prof. Alexander Arguelles - 2 Lectures
+  ## Lectures of prof. Alexander Arguelles - 2 Lectures
 
   He spoke about motivation. He talk about types of learners - solitary learners and group learners. Of course, I am solitary learner - I like mostly grammar, linguistics, reading and writing and do not like speaking. Recently I have to say That I enjoy listening and now I listen every day about 2-3 hours foreign languages. I made something similar before but only with English. Now I bravely add Spanish, Italian and Portuguese to the soup and I am not afraid to listen two foreign languages at once even if they are very close. I think I have to try "shadowing" - the technique of prof. Arguelles. I try something similar but not for words but for vowels and consonants.
   I like the idea of Diachronic learning - to learn whole language family and one old language - like Latin. I do exactly the same now - learn the Romance language family (except French and Romanian) and I learnt years ago Latin by myself. I am a huge fan of Latin but I learnt it when I was 16 just because I like how it sounds. I was learnt it on and off for 4-5 years but mainly grammarly. However, I think that the idea is very good and I immediately add Latin to my diary. I added it in my table for learning hours alongside Galician (from Romance languages) and English (I consider English for Romance language because of vocabulary) and Russian. I found the original of my Latin grammar which I love truly (I learnt before from a copy to take notes on it but lost some pages) and have two manuals, also found some interesting books about Vulgar Latin and some sites. But I think that would be nice to add Galician too - I like it very much and I have manuals, only had no time before to started seriously.
@@ -442,7 +443,7 @@ Some tips I liked:
 - read every day 20 minutes (I already do it)
 - read 1 month in your strong languages (for me - English and Spanish), then 1 week for every week language (for me - Italian, Portuguese), add one old language for a week (for me - Latin) and I will add - why not add some small language from the same language family for a week (for me - Galiacian). The goal is to become confident with your strong languages first and then they will help you with your week languages.
 
-# Helen Abadzi - Efficient language learning for all: What your brain needs to do
+## Helen Abadzi - Efficient language learning for all: What your brain needs to do
 
 This was very interesting and comprehensive lecture. I like her approach to grab first the whole picture of the lesson or book and then listen it. The grammar is important because of categorizations - adults have aptitude for categorization and grammar is a shortcut. It is very good to make analogies, which is useful when conjugate verbs. It is very important to keep all our old textbooks and notes we made - it is easier to remember some language with your own notes. It is a very good technique to make some type of physical activity during studying (like chewing gum). Oher useful technique is study-sleep-study cycle. Some other useful study techniques:
 - understand each word in the studied dialogue
@@ -462,7 +463,7 @@ This was very interesting and comprehensive lecture. I like her approach to grab
 
 Start with one app and finished it. It is better to start with app or to use app when you already knew something. They are limited in vocabulary and have little grammar explanation. Courses with audio materials with small chunks are better. For intermediate learners it is normally hard to find learners materials - some suitable ones are textbooks with audio/video supplements and newspaper readers from Dunwoody Press (but they are only for not world language - so nothing for Spanish, Italian and Portuguese)
 
-# Steve Kaufmann - How many words do we need to know?
+## Steve Kaufmann - How many words do we need to know?
 
 3 overwhelming factors:
 - attitude
@@ -471,7 +472,7 @@ Start with one app and finished it. It is better to start with app or to use app
 
 He is a big fan of Stephen Krashen - "compelling input" (the input must be comprehensive, meaningful, understandable)
 
-# Conclusion
+## Conclusion
 
 All I have to do is:
 - to determine my global goals for all my Languages

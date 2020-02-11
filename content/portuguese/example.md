@@ -1,14 +1,15 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
-date = {{ .Date }}
-draft = "true"
+title = "Exemplo"
+date = "2020-02-11"
+draft = "false"
 tags = ["portuguese","languages"]
 disableToc = "false"
-show_comments = false
-lastmod = "{{ .Date }}"
-publishDate = "{{ .Date }}"
-summary = ""
+show_comments = "false"
+lastmod = "2020-02-11"
+publishDate = "2020-02-11"
+summary = "Isso é uma pagina exemplar."
 +++
+
 ##
 
 

@@ -1,16 +1,14 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
-date = {{ .Date }}
-draft = "true"
-tags = ["portuguese","languages"]
+title = "Example"
+date = 2020-02-11T16:54:56+02:00
+draft = "false"
+tags = ["english","languages"]
 disableToc = "false"
 show_comments = false
-lastmod = "{{ .Date }}"
-publishDate = "{{ .Date }}"
-summary = ""
+lastmod = "2020-02-11T16:54:56+02:00"
+publishDate = "2020-02-11T16:54:56+02:00"
+summary = "This is a model for writing."
 +++
-##
-
 
 
 <style type="text/css">
@@ -25,50 +23,50 @@ summary = ""
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-rvyq"><img src="/flags/port32.png" alt="eng"></th>
+    <th class="tg-rvyq"><img src="/flags/uk32.png" alt="eng"></th>
     <th class="tg-4erg"></th>
-    <th class="tg-4erg">Tempo</th>
-      <th class="tg-4erg">Notas</th>
+    <th class="tg-4erg">Time</th>
+    <th class="tg-4erg">Notes</th>
   </tr>
   <tr>
     <td class="tg-7btt">1.</td>
-    <td class="tg-fymr">Gramática/Lições</td>
+    <td class="tg-fymr">Grammar/Lessons</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-7btt">2.</td>
-    <td class="tg-fymr">Ler</td>
+    <td class="tg-fymr">Reading</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-7btt">3.</td>
-    <td class="tg-fymr">Escultar</td>
+    <td class="tg-fymr">Listening</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-fymr">4.</td>
-    <td class="tg-fymr">Escrever</td>
+    <td class="tg-fymr">Writing</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-fymr">5.</td>
-    <td class="tg-fymr">Falar</td>
+    <td class="tg-fymr">Speaking</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-fymr">6.</td>
-    <td class="tg-fymr">Vocabulário</td>
+    <td class="tg-fymr">Vocabulary</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-  </tr>
+    </tr>
   <tr>
     <td class="tg-fymr">7.</td>
-    <td class="tg-fymr">Exercícios fonéticos</td>
+    <td class="tg-fymr">Phonetic drills</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>

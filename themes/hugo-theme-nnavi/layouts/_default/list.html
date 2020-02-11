@@ -10,7 +10,11 @@
             {{ partial "icon.html" (dict "ctx" $ "name" "clock") }} {{ .ReadingTime }} min read -
             {{ .PublishDate.Format "Jan 2, 2006" }}
           </span>
+
         </li>
+                {{ .Summary }}
+
+        
       {{ end }}
     </ul>
     {{ partial "pagination.html" $ }}

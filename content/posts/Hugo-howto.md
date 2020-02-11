@@ -6,7 +6,7 @@ disableToc = "false"
 show_comments = false
 lastmod = "2020-02-10"
 publishDate = ""
-summary = ""
+summary = "A simple list for useful for me chuncks and sites. Hugo, Markdown and Go temlates are completely new to me."
 
 +++
 
@@ -15,6 +15,12 @@ summary = ""
 Write in the front matter of your post:
 
 disableToc= "false"
+
+and in /layouts/_default/single.html
+
+```{{ .TableOfContents }}```
+
+in the desired place
 
 # How to format and style tables
 

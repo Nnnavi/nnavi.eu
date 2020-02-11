@@ -7,7 +7,7 @@ disableToc = "false"
 show_comments = "false"
 lastmod = "2020-02-11T13:06:20+02:00"
 publishDate = "2020-02-11T13:06:20+02:00"
-summary = ""
+summary = "Some useful site for language learning of my desired languages. Some sites for Romance languages, some sites with free materials and programs."
 layout = "/themes/layouts/_default/single.html"
 +++
 
@@ -196,6 +196,15 @@ Internazionale
 1.	http://www.dizionario-latino.com/dizionario-latino-grammatica.php - Latin dictionary in Italian
 
 2.	http://www.forumromanum.org/literature/authors_a.html - Latin literature
+3. https://latin.packhum.org/browse - Latin literature
+4. http://www.attalus.org/info/sources.html - translations of Latin literature
+5. http://www.thelatinlibrary.com/ Latin library
+6. https://www.thelatinlibrary.com/bennett.html Latin grammar
+7. http://learn101.org/latin.php Latin 101 lessons
+8. https://lrc.la.utexas.edu/eieol/latol Latin Online - University of Texas at Austin
+9. http://www.nationalarchives.gov.uk/latin/stage-1-latin/lessons/ - The national archive lessons
+10. https://www.duolingo.com/course/la/en/Learn-Latin - Duolingo - Latin
+11. https://www.wikihow.com/Learn-Latin-on-Your-Own - How to learn Latin on your own
 
 
 

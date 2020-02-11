@@ -1,14 +1,15 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
-date = {{ .Date }}
-draft = "true"
-tags = ["portuguese","languages"]
+title = "Ejemplo"
+date = "2020-02-11"
+draft = "false"
+tags = ["spanish","languages"]
 disableToc = "false"
-show_comments = false
-lastmod = "{{ .Date }}"
-publishDate = "{{ .Date }}"
-summary = ""
+show_comments = "false"
+lastmod = "2020-02-11"
+publishDate = "2020-02-11"
+summary = "Este es un modelo para escribir."
 +++
+
 ##
 
 
@@ -25,50 +26,50 @@ summary = ""
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-rvyq"><img src="/flags/port32.png" alt="eng"></th>
+    <th class="tg-rvyq"><img src="/flags/spain32.png" alt="eng"></th>
     <th class="tg-4erg"></th>
-    <th class="tg-4erg">Tempo</th>
+    <th class="tg-4erg">Tiempo</th>
       <th class="tg-4erg">Notas</th>
   </tr>
   <tr>
     <td class="tg-7btt">1.</td>
-    <td class="tg-fymr">Gramática/Lições</td>
+    <td class="tg-fymr">Gramática/Lecciones</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-7btt">2.</td>
-    <td class="tg-fymr">Ler</td>
+    <td class="tg-fymr">Leer</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-7btt">3.</td>
-    <td class="tg-fymr">Escultar</td>
+    <td class="tg-fymr">Escuchar</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-fymr">4.</td>
-    <td class="tg-fymr">Escrever</td>
+    <td class="tg-fymr">Escribir</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-fymr">5.</td>
-    <td class="tg-fymr">Falar</td>
+    <td class="tg-fymr">Hablar</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-fymr">6.</td>
-    <td class="tg-fymr">Vocabulário</td>
+    <td class="tg-fymr">Vocabulario</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-fymr">7.</td>
-    <td class="tg-fymr">Exercícios fonéticos</td>
+    <td class="tg-fymr">Ejercicios fonéticos</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>

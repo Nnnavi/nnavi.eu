@@ -1,16 +1,14 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
-date = {{ .Date }}
-draft = "true"
-tags = ["portuguese","languages"]
+title = "Exemplo"
+date = "2020-02-11"
+draft = "false"
+tags = ["galician","languages"]
 disableToc = "false"
-show_comments = false
-lastmod = "{{ .Date }}"
-publishDate = "{{ .Date }}"
-summary = ""
+show_comments = "false"
+lastmod = "2020-02-11"
+publishDate = "2020-02-11"
+summary = "Este é un exemplo de páxina."
 +++
-##
-
 
 
 <style type="text/css">
@@ -25,14 +23,14 @@ summary = ""
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-rvyq"><img src="/flags/port32.png" alt="eng"></th>
+    <th class="tg-rvyq"><img src="/flags/galego32.png" alt="eng"></th>
     <th class="tg-4erg"></th>
     <th class="tg-4erg">Tempo</th>
       <th class="tg-4erg">Notas</th>
   </tr>
   <tr>
     <td class="tg-7btt">1.</td>
-    <td class="tg-fymr">Gramática/Lições</td>
+    <td class="tg-fymr">Gramática/Leccións</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -44,13 +42,13 @@ summary = ""
   </tr>
   <tr>
     <td class="tg-7btt">3.</td>
-    <td class="tg-fymr">Escultar</td>
+    <td class="tg-fymr">Escoitar</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-fymr">4.</td>
-    <td class="tg-fymr">Escrever</td>
+    <td class="tg-fymr">Escribir</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -62,13 +60,13 @@ summary = ""
   </tr>
   <tr>
     <td class="tg-fymr">6.</td>
-    <td class="tg-fymr">Vocabulário</td>
+    <td class="tg-fymr">Vocabulario</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-fymr">7.</td>
-    <td class="tg-fymr">Exercícios fonéticos</td>
+    <td class="tg-fymr">Exercicios fonéticos</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
