@@ -389,7 +389,7 @@ I like benefits of the priorities she explained:
 - structure (we know exactly where we are in the road)
 - we see improvement (if we concentrate in one thing we see the results in short time, otherwise we see results after a year) - this is more motivational
 - we do not forget things that we do not love (like speaking and vocabulary for me)
-- we remaind yourself that we have goals and have to make steps to achieve them. So we are not so afraid of speaking because we made this decision
+- we remind yourself that we have goals and have to make steps to achieve them. So we are not so afraid of speaking because we made this decision
 
 Set your __smart goals__:
 
@@ -404,16 +404,78 @@ __R__ealistic
 __T__ime bound
 
 
-And for a nice end - letter of Eva (English teacher):
+In addition, for a nice end - letter of Eva (English teacher):
 
->"I have realized that __my attitude__ towards English __was wrong the whole years.__ When I wanted to improve my English at home I tried to focus on every thing  - on grammar, listening, reading, vocabulary, etc. __I was lost__ because I didn't know how to find the system in language learning.
+>"I have realized that __my attitude__ towards English __was wrong the whole years.__ When I wanted to improve my English at home I tried to focus on everything  - on grammar, listening, reading, vocabulary, etc. __I was lost__ because I didn't know how to find the system in language learning.
   Thanks to __concentrating on 3 priorities,__ I have found my lost motivation and I have __started to like English again__ :)"
 
   # Lectures of prof. Alexander Arguelles - 2 Lectures
 
-  He spoke about motivation. He talk about types of learners - solitary leaarners and group learners. Of course I am solitary learner - I like mostly grammar, linguistics, reading, writing and do not like speaking. But recently I have to say That I enjoy listening and now I listen every day about 2-3 hours foreign languages. I made something similar before but only with English. Now I bravely add Spanish, Italian and Portuguese to the soup and I am not afraid to listen two foreign languages at once even if they are very close. I think I have to try "shadowing" - the technique of prof. Arguelles. I try something similar but not for words but for vowels and consonants.
-  I like the idea of Diachronic learning - to learn whole language family and one old language - like Latin. I do exactly the same now - learn the Romance language family (except French and Romanian) and I learnt years ago Latin by myself. I am a huge fan of Latin but I learntit when I was 16 just because I like how it sounds. Iwas learnt it on and off for 4-5 years but mainly grammarly. But I think that the idea is very good and I immediately add Latin to my diary. I added it in my table for learning hours alongside Galician (from Romance languages) and English (I consider English for Romance language because of vocabulary) and Russian. I found the original of my Latin grammar which I love truly (I learnt before from a copy to take notes on it but lost some pages) and have two manuals, also found some interesting books about Vulgar Latin and some sites. But I think that would be nice to add Galician too - I like it very much and I have manuals, only had no time before to started seriously.
+  He spoke about motivation. He talk about types of learners - solitary learners and group learners. Of course, I am solitary learner - I like mostly grammar, linguistics, reading and writing and do not like speaking. Recently I have to say That I enjoy listening and now I listen every day about 2-3 hours foreign languages. I made something similar before but only with English. Now I bravely add Spanish, Italian and Portuguese to the soup and I am not afraid to listen two foreign languages at once even if they are very close. I think I have to try "shadowing" - the technique of prof. Arguelles. I try something similar but not for words but for vowels and consonants.
+  I like the idea of Diachronic learning - to learn whole language family and one old language - like Latin. I do exactly the same now - learn the Romance language family (except French and Romanian) and I learnt years ago Latin by myself. I am a huge fan of Latin but I learnt it when I was 16 just because I like how it sounds. I was learnt it on and off for 4-5 years but mainly grammarly. However, I think that the idea is very good and I immediately add Latin to my diary. I added it in my table for learning hours alongside Galician (from Romance languages) and English (I consider English for Romance language because of vocabulary) and Russian. I found the original of my Latin grammar which I love truly (I learnt before from a copy to take notes on it but lost some pages) and have two manuals, also found some interesting books about Vulgar Latin and some sites. But I think that would be nice to add Galician too - I like it very much and I have manuals, only had no time before to started seriously.
 
-  He speak about focus on work itself not only to do the goal (I agree and do this), systematic, efficient, effective learning - I am not good here. I am not so systematic, try to learn every day but cannot. I have no stress in learning but face some lack of confidence and burn-off from time to time. I feel exausted frequently - mostly when speak or listen. And I feel so bored when I learn new words that I have to try ome new techniques - flascards are boring(tried Anki and Memrise - they are good but have to be combined with something else maybe, I cannot make them my habit), Duolingo - too (only 3-4 times a year is not boring for me). Maybe I try to combine flashcards that pronounce words with speaking ("shadowing"? maybe) and old-school writing new words for 5 rows and pronounce them (maybe only for hard to remember words). The old-school method was efficient but slow and made you mad from speaking one thing on and on till became breathless, voiceless and handless from writing.
+  He speak about focus on work itself not only to do the goal (I agree and do this), systematic, efficient, effective learning - I am not good here. I am not so systematic, try to learn every day but cannot. I have no stress in learning but face some lack of confidence and burn-off from time to time. I feel exhausted frequently - mostly when speak or listen. And I feel so bored when I learn new words that I have to try some new techniques - flashcards are boring(tried Anki and Memrise - they are good but have to be combined with something else maybe, I cannot make them my habit), Duolingo - too (only 3-4 times a year is not boring for me). Maybe I try to combine flashcards that pronounce words with speaking ("shadowing"? maybe) and old-school writing new words for 5 rows and pronounce them (maybe only for hard to remember words). The old-school method was efficient but slow and made you mad from speaking one thing on and on until became breathless, voiceless and handless from writing.
 
   For me the most interesting was the second lecture about Reading. I am a big fan of reading and read every day but now only 5 pages maximum. Some days I give up everything and read all the day and this is a true  pleasure for me.  According to what he said if I want to read a novel I have to know about 9 000 - 15 000 word families. I make the test in the site he pointed - <https://my.vocabularysize.com/session/evstxx> and the test shows me that I have 9 300 English words families. I was read before years some books in English but nowadays I read only books about web development, language Learning and grammar books in English. Maybe I have to start reading non-fiction literature. I have to try the rule for 6 unknown words in a page but I think I probably get many more.
+
+  There are two types of reading:
+  - intensive reading - very hard, can be done with very short text. The intention is to extract information fast but have to use dictionary
+  - extensive reading - for pleasure, relatively easy, not supposed to use dictionary, have to learn words from the context. It is for overall language development. It is a good idea to make word lists. We have to know 98% of the words in the text, which means to have no more than 6 unknown word per page.
+
+9000 w. f. (educated) - 5000 (minimum) = 4000 word families (literary words - not so many used but needed for reading )
+
+Reading is more efficient tool than listening and is a good approach if you want to speak well.
+
+How to start reading? We have to read better in our native language first. A good speaking test is to read aloud - it is a good exercise to speak fluent and to make your thoughts ordered.
+
+How to choose a text for extensive reading? It have to be easy like children books, graded readers, bilingual texts (the best one, better with literal translation to compare sentence-by-sentence first and then read paragraph by paragraph), novels (original + translation - this is good for advanced readers). Audio books are harder than normal books (because of listening comprehension), easy to distract,the narrator is very important.
+There are 5 different types of using of audio books:
+1. translate + listen the same text (like Assimil)- this is like watching tv with subtitles on the same language - "listening reader"
+2. read original text and listen translation
+3. read original text and listen original
+4. ?
+5. listen original + two different subtitles - this is very good for comparison
+
+What is literature? Fine quality text, which is well written and cultural significant.
+
+Some tips I liked:
+- read every day 20 minutes (I already do it)
+- read 1 month in your strong languages (for me - English and Spanish), then 1 week for every week language (for me - Italian, Portuguese), add one old language for a week (for me - Latin) and I will add - why not add some small language from the same language family for a week (for me - Galiacian). The goal is to become confident with your strong languages first and then they will help you with your week languages.
+
+# Helen Abadzi - Efficient language learning for all: What your brain needs to do
+
+This was very interesting and comprehensive lecture. I like her approach to grab first the whole picture of the lesson or book and then listen it. The grammar is important because of categorizations - adults have aptitude for categorization and grammar is a shortcut. It is very good to make analogies, which is useful when conjugate verbs. It is very important to keep all our old textbooks and notes we made - it is easier to remember some language with your own notes. It is a very good technique to make some type of physical activity during studying (like chewing gum). Oher useful technique is study-sleep-study cycle. Some other useful study techniques:
+- understand each word in the studied dialogue
+- use emotions (it is more useful emotional listening that listening a text generated with software)
+- it is very useful to slow down the audio to 50-70%
+- record your lessons with a teacher to listen them again later
+
+1. Online apps and courses:
+  - Mango
+  - Duolingo(tried it)
+  - Yabla
+  - Candy crush
+  - Rosetta stone(tried it)
+  - Memrise(tried it)
+  - Pimsleur
+  - FSI courses
+
+Start with one app and finished it. It is better to start with app or to use app when you already knew something. They are limited in vocabulary and have little grammar explanation. Courses with audio materials with small chunks are better. For intermediate learners it is normally hard to find learners materials - some suitable ones are textbooks with audio/video supplements and newspaper readers from Dunwoody Press (but they are only for not world language - so nothing for Spanish, Italian and Portuguese)
+
+# Steve Kaufmann - How many words do we need to know?
+
+3 overwhelming factors:
+- attitude
+- time
+- developing ability to notice things
+
+He is a big fan of Stephen Krashen - "compelling input" (the input must be comprehensive, meaningful, understandable)
+
+# Conclusion
+
+All I have to do is:
+- to determine my global goals for all my Languages
+- to set up a system for learning languages suitable for me
+- to test my level in grammar, vocabulary size
+- to set up my goals for the years
+- to make a plan for the year
