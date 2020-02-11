@@ -36,7 +36,7 @@ Portuguese
 
 12.	https://www.conjugacao.com.br/artigos/ - Tudo sobre os verbos
 
-13.	https://https://dicionario.priberam.org/ - Dicionario Priberam
+13.	https://dicionario.priberam.org/ - Dicionario Priberam
 
 14.	https://www.linguateca.pt/didactico.html - Material didГЎctico
 
@@ -58,9 +58,9 @@ http://bg.academiccourses.com/%D0%9A%D1%83%D1%80%D1%81%D0%BE %D0%B2%D0%B5/%D0%9F
 
 21.	http://www.dominiopublico.gov.br/pesquisa/PesquisaObraF orm.jsp - Dominio Publico - Brasil
 
-22.	https://https://jlu.mygovlearn.com/ - Joint Language University
+22.	https://jlu.mygovlearn.com/ - Joint Language University
 
-23.	http://https://www.sbs.com.au/yourlanguage/portuguese - Portuguese Radio
+23.	https://www.sbs.com.au/yourlanguage/portuguese - Portuguese Radio
 
 24.	http://www.transparent.com/learn-portuguese-brazilian/profic iency-
 test.html - Proficiency test - Portuguese
@@ -70,8 +70,6 @@ test.html - Proficiency test - Portuguese
 1.	http://www.enforex.com/bulgarian/resources.html - Spanish language resources in Bulgarian
 
 2.	http://www.studyspanish.com - Study Spanish - online lessons
-
-4.	https://fjdelacuesta.wordpress.com// - FJ de la Cuesta - RECUERDOS DE MI PASO POR EL SAHARA ESPAГ‘OL, DURANTE MI SERVICIO MILITAR
 
 5.	https://www.lawlessspanish.com/ - Lawless Spanish
 
