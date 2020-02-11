@@ -8,9 +8,10 @@ show_comments = "false"
 lastmod = "2020-02-11T13:06:20+02:00"
 publishDate = "2020-02-11T13:06:20+02:00"
 summary = ""
+layout = "/themes/layouts/_default/single.html"
 +++
 
-# Portuguese
+## Portuguese
 1.	http://www.instituto-camoes.pt/ - Instituto Camoes
 
 2.	https://european-portuguese.info/ - European Portuguese pronunciation
@@ -56,17 +57,18 @@ http://bg.academiccourses.com/%D0%9A%D1%83%D1%80%D1%81%D0%BE %D0%B2%D0%B5/%D0%9F
 
 20.	http://www.bbc.co.uk/languages/portuguese/ - BBC - Portuguese
 
-21.	http://www.dominiopublico.gov.br/pesquisa/PesquisaObraF orm.jsp - Dominio Publico - Brasil
+21.	http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp - Dominio Publico - Brasil
 
 22.	https://jlu.mygovlearn.com/ - Joint Language University
 
 23.	https://www.sbs.com.au/yourlanguage/portuguese - Portuguese Radio
 
-24.	http://www.transparent.com/learn-portuguese-brazilian/profic iency-
+24.	http://www.transparent.com/learn-portuguese-brazilian/proficiency-
 test.html - Proficiency test - Portuguese
 
 
-# Spanish
+## Spanish
+
 1.	http://www.enforex.com/bulgarian/resources.html - Spanish language resources in Bulgarian
 
 2.	http://www.studyspanish.com - Study Spanish - online lessons
@@ -75,9 +77,9 @@ test.html - Proficiency test - Portuguese
 
 6.	http://www.uni.edu/becker/Spanish3.html - Sites to explore Spanish
 
-7.	http://cajondesastre.juegos.free.fr/ejercicios_gramatic a.htm - Ejercicios gramaticales
+7.	http://cajondesastre.juegos.free.fr/ejercicios_gramatica.htm - Ejercicios gramaticales
 
-8.	http://juego.amnesia.free.fr/Dicoson/colores/colores_fr ame.htm - Vocabulario
+8.	http://juego.amnesia.free.fr/Dicoson/colores/colores_frame.htm - Vocabulario
 
 9.	http://eljuego.free.fr/Fichas_gramatica/gramatica_index.htm - Gramatica
 espanola
@@ -124,7 +126,8 @@ espanola
 
 
 
-# Italiano
+## Italiano
+
 1.	http://coerll.utexas.edu/ra/episode.php?p=01 - Radio Arlecchino
 
 2.	http://lab.chass.utoronto.ca/italian/resource/ - DEPARTMENT of Italian STUDIES UNIVERSITY OF TORONTO RESOURCE FOR INSTRUCTIONAL PURPOSES
@@ -142,15 +145,15 @@ espanola
 8.	http://www.frasiaforismi.com/ - Frasi e Aforismi Straordinari *
 Frasiaforismi.com
 
-9.	http://dizionari.corriere.it/dizionario_italiano/i ndex.shtml - Dizionario Italiano - Corriere della sera
+9.	http://dizionari.corriere.it/dizionario_italiano/index.shtml - Dizionario Italiano - Corriere della sera
 
-10.	http://parliamoitaliano.altervista.org/dizionari-di-ita liano/ - Dizionari di italiano
+10.	http://parliamoitaliano.altervista.org/dizionari-di-italiano/ - Dizionari di italiano
 
 11.	http://www.homolaicus.com/linguaggi/sinonimi/ - Sinonimi e contrari
 
 12.	http://context.reverso.net/traduzione/italiano-inglese/ - Reverso Context Italiano-Inglese
 
-13.	http://cr.middlebury.edu/italian%20Resources/progetto/gramma r/ - Progetto Italica - Libro di Grammatica
+13.	http://cr.middlebury.edu/italian%20Resources/progetto/grammar/ - Progetto Italica - Libro di Grammatica
 
 14.	http://italiabenetti.blogspot.bg/search/label/Grammatica - UNA FINESTRA
 SULL'ITALIA
@@ -164,10 +167,10 @@ Internazionale
 
 18.	http://www.sardegnadigitallibrary.it/index.php?xsl=2436&s=17&v=9&c=4463&id=214520 - Grammatica storica della lingua e dei dialetti italiani
 
-19.	http://homes.chass.utoronto.ca/~ngargano/corsi/100/100i ndex.html - Corso di italiano
+19.	http://homes.chass.utoronto.ca/~ngargano/corsi/100/100index.html - Corso di italiano
 
 
-# Gallego
+## Gallego
 
 1.	http://digalego.xunta.gal/digalego/Html/index.php - DIGALEGO - Dicionario de galego
 
@@ -188,7 +191,7 @@ Internazionale
 
 
 
-# Latin
+## Latin
 
 1.	http://www.dizionario-latino.com/dizionario-latino-grammatica.php - Latin dictionary in Italian
 
@@ -197,7 +200,7 @@ Internazionale
 
 
 
-# Romance Languages
+## Romance Languages
 
 1.	http://www.orbilat.com/ - Descriptive grammars of Romance languages and
 Latin (the site is down from a year, hopefully will be restored)
@@ -217,7 +220,7 @@ Latin (the site is down from a year, hopefully will be restored)
 8.	http://lingohut.com/en/ - Learn a new language
 
 
-# English
+## English
 
 1.	http://dictionary.cambridge.org/dictionary/english / - Cambridge
 dictionary
@@ -233,7 +236,7 @@ dictionary
 6.	https://quizlet.com/2289321/top-10000-common-words-flash-cards/# - Quizlet - top 10000 words inВ English - flashcards
 
 
-# Useful Sites
+## Useful Sites
 
 1.	http://ctrlq.org/listen/ - Enter your text and the app will convert your
 written words into an MP3 audio file
@@ -249,7 +252,7 @@ written words into an MP3 audio file
 
 
 
-# Public Domain Courses and Other Resources
+## Public Domain Courses and Other Resources
 
 1.	https://gloss.dliflc.edu/Default.aspx - DLI
 
