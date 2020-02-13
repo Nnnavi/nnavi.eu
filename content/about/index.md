@@ -63,15 +63,11 @@ onload="if(submitted) {window.location='about.html';}"></iframe>
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSdsD1umsk_YOyMPqTeltI97XCL8sqLjQtyF02BgpVrEqLDNxw/formResponse" method="post">
       <label>Name*</label>
       <input type="text" placeholder="Name*" name="entry.123665969" required>
-
       <label>Email Address*</label>
       <input type="email" placeholder="Email address*" name="emailAddress" required>
-
       <label>Subject</label>
       <input type="text" placeholder="Subject" name="entry.1681785081">
-
       <label>Message*</label>
       <textarea rows="5" placeholder="Message*" name="entry.1581301285" required></textarea>
-
       <button type="submit">Send</button>
 </form>
