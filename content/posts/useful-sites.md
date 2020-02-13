@@ -205,6 +205,7 @@ Internazionale
 9. http://www.nationalarchives.gov.uk/latin/stage-1-latin/lessons/ - The national archive lessons
 10. https://www.duolingo.com/course/la/en/Learn-Latin - Duolingo - Latin
 11. https://www.wikihow.com/Learn-Latin-on-Your-Own - How to learn Latin on your own
+12. https://latin.cactus2000.de/noun/index_en.php cactus2000 Declesion tables and online declesion 
 
 
 
