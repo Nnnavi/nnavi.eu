@@ -12,7 +12,7 @@ layout = "/themes/layouts/_default/single.html"
 +++
 
 ## Portuguese
-1.	http://www.instituto-camoes.pt/ - Instituto Camoes
+1.	http://www.instituto-camoes.pt/ - Instituto Camões
 
 2.	https://european-portuguese.info/ - European Portuguese pronunciation
 
@@ -25,7 +25,7 @@ Portuguese
 
 6.	http://www.sonia-portuguese.com/ - sonia-portuguese.com
 
-7.	http://portspan.cercll.arizona.edu/atividades/atividade s.htm - Portuguese for Spanish speakers
+7.	http://portspan.cercll.arizona.edu/atividades/atividades.htm - Portuguese for Spanish speakers
 
 8.	http://www.clpic.ox.ac.uk/links/ - Instituto Camoes - Links
 
@@ -33,25 +33,19 @@ Portuguese
 
 10.	http://www.portugueselearning.com/ - Portuguese learning
 
-11.	http://www.conjuga-me.net/en/ - Conjugue qualquer verbo em portuguГЄs
+11.	http://www.conjuga-me.net/en/ - Conjugue qualquer verbo em português
 
 12.	https://www.conjugacao.com.br/artigos/ - Tudo sobre os verbos
 
 13.	https://dicionario.priberam.org/ - Dicionario Priberam
 
-14.	https://www.linguateca.pt/didactico.html - Material didГЎctico
+14.	https://www.linguateca.pt/didactico.html - Material didáctico
 
-15.	http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/Histor iaCV/HGCV-
-V1&p=11 - HistГіria Geral de Cabo Verde
+15.	http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/HistoriaCV/HGCV-V1&p=11 - História Geral de Cabo Verde
 
 16.	http://www.infopedia.pt/ - Infopedia - Dicionarios Porto Editora
 
 17.	http://www.rtp.pt/play/direto/rtpafrica - RTP Africa en direito
-
-18.
-http://bg.academiccourses.com/%D0%9A%D1%83%D1%80%D1%81%D0%BE %D0%B2%D0%B5/%D0%9F%D0%BE%
-        D1%80%D1%82%D1%83% D0%B3% D0%B0% D0%BB% D1%81% D0%BA%D0%B8 - РђРєпїЅ пїЅпїЅ пїЅРґРµРјРёС‡РЅРё
-РєСѓСЂСЃРѕРІРµ
 
 19.	http://www.easyportuguese.com/ - Easy Portuguese
 
@@ -63,8 +57,13 @@ http://bg.academiccourses.com/%D0%9A%D1%83%D1%80%D1%81%D0%BE %D0%B2%D0%B5/%D0%9F
 
 23.	https://www.sbs.com.au/yourlanguage/portuguese - Portuguese Radio
 
-24.	http://www.transparent.com/learn-portuguese-brazilian/proficiency-
-test.html - Proficiency test - Portuguese
+24.	http://www.transparent.com/learn-portuguese-brazilian/proficiency-test.html - Proficiency test - Portuguese
+
+25. http://www.ciberduvidas.com/
+
+26. http://www.linguateca.pt/
+
+27. http://www.corpusdoportugues.org/
 
 
 ## Spanish
@@ -84,15 +83,15 @@ test.html - Proficiency test - Portuguese
 9.	http://eljuego.free.fr/Fichas_gramatica/gramatica_index.htm - Gramatica
 espanola
 
-10.	http://www.zonaele.com/ - Materiales didГЎcticos para alumnos y profesores de espaГ±ol como lengua extranjera (ELE)
+10.	http://www.zonaele.com/ - Materiales didácticos para alumnos y profesores de español como lengua extranjera (ELE)
 
-11.	http://www.notesinspanish.com/ - Learn To Speak The Real Spanish YouвЂ™ll Never Find in a Textbook or Classroom!
+11.	http://www.notesinspanish.com/ - Learn To Speak The Real Spanish You will Never Find in a Textbook or Classroom!
 
 12.	http://coerll.utexas.edu/coerll/spanish - Center for open educational resources and language learning
 
 13.	http://lab.chass.utoronto.ca/rescentre/spanish/ - Spanish Audio Gazette - audio resources about Spanish dialects
 
-14.	http://www.spanport.utoronto.ca/spa321/Index.htm - Mapa lingГјГ¬stico de AmГ©rica Latina
+14.	http://www.spanport.utoronto.ca/spa321/Index.htm - Mapa lingüístico de América Latina
 
 15.	http://wordsgalore.com/ - Spanish,В English, Chinese, Korean - Flash Cards, MP3 Creator, Student Testing
 
@@ -102,23 +101,23 @@ espanola
 
 18.	http://www.inspagnolo.it/ - La piu grande comunita Italiana di studenti di spagnolo
 
-19.	http://www.biblioteca.org.ar/catalogo.php - Biblioteca Virtual Universal-una de las mГЎs grandes colecciones de libros digitalizados en idioma espaГ±ol
+19.	http://www.biblioteca.org.ar/catalogo.php - Biblioteca Virtual Universal-una de las más grandes colecciones de libros digitalizados en idioma español
 
 20.	http://clave.smdiccionarios.com/app.php - Diccionario Clave
 
 21.	http://www.elmundo.es/diccionarios/ - Diccionario El Mundo
 
-22.	http://www.tiatula.com/tests_nivel/index.php - PRUEBAS DE NIVEL DE ESPAГ‘OL
+22.	http://www.tiatula.com/tests_nivel/index.php - PRUEBAS DE NIVEL DE ESPAÑOL
 
 23.	http://blog.tiatula.com/2010/03/modelos-de-examen-dele.html - Modelos de examen DELE
 
-24.	http://www.profesoresdeespanol.com/enlaces-interes/ - Enlaces de interГ©s a pГЎginasde autoaprendizaje sobre el espaГ±ol
+24.	http://www.profesoresdeespanol.com/enlaces-interes/ - Enlaces de interés a páginas de autoaprendizaje sobre el español
 
 25.	http://allrecipes.com.mx/ - Recetas
 
 26.	http://translate.academic.ru/hacer/es/bg/ - РЎР»РѕРІР°СЂРё Рё СЌРЅС†РёРєР»РѕРїРµРґРёРё РЅР°РђРєР°РґРµРјРёРєРµ
 
-27.	https://filologiaunlp.wordpress.com/bibliografia/ - FilologГ¬a HispГЎnica - CГЎtedra de la Universidad Nacional de La Plata
+27.	https://filologiaunlp.wordpress.com/bibliografia/ - Filología Hispánica - Cátedra de la Universidad Nacional de La Plata
 
 28.	http://www.bbc.co.uk/languages/spanish/mividaloca/ep01/ - BBC - Mi vida loca
 
@@ -136,7 +135,7 @@ espanola
 
 4.	http://grammatica-italiana.dossier.net/index.html - Guida Grammatica Italiana
 
-5.	https://mundoeducacao.bol.uol.com.br/italiano - SeГ§ГЈo de LГ¬ngua Italiana do site Mundo EducaГ§ГЈo
+5.	https://mundoeducacao.bol.uol.com.br/italiano - Secão de Língua Italiana do site Mundo Educacão
 
 6.	http://www.italian-verbs.com/ - Italian verbs conjugator
 
@@ -161,7 +160,7 @@ SULL'ITALIA
 15.	http://dizionario.internazionale.it/ - Il nuovo dizionario de Mauro
 Internazionale
 
-16.	http://caffescuola.com/download/ - CaffГЁScuola - Italiano per stranieri вЂ“ Lezioni,esercizi e libri
+16.	http://caffescuola.com/download/ - CaffèScuola - Italiano per stranieri - Lezioni,esercizi e libri
 
 17.	http://www.dizionario-italiano.it/ - Dizionario Italiano - Enrico Olivetti
 
@@ -174,7 +173,7 @@ Internazionale
 
 1.	http://digalego.xunta.gal/digalego/Html/index.php - DIGALEGO - Dicionario de galego
 
-2.	http://cotovia.org/fonetica/index.html - FonГ©tica e FonoloxГ¬a do Galego - Departamento de Lingua Galega e Literatura
+2.	http://cotovia.org/fonetica/index.html - Fonética e Fonoloxía do Galego - Departamento de Lingua Galega e Literatura
 
 3.	http://gl.wikibooks.org/wiki/Curso_de_lingua_galega - Wikibooks - Curso de lingua galega
 
@@ -182,7 +181,7 @@ Internazionale
 
 5.	http://mylanguages.org/galician_alphabet.php - My languages.org - Galician alphabet
 
-6.	http://www.cirp.es/ - Centro RamГіn PiГ±eiro para a InvestigaciГіn en Humanidades
+6.	http://www.cirp.es/ - Centro Ramón Piñeiro para a Investigación en Humanidades
 
 7.	http://www.lingua.gal/o-galego/aprendelo/celga-1/aula-de-galego/alumnado - O portal da lingua galega
 
@@ -205,7 +204,7 @@ Internazionale
 9. http://www.nationalarchives.gov.uk/latin/stage-1-latin/lessons/ - The national archive lessons
 10. https://www.duolingo.com/course/la/en/Learn-Latin - Duolingo - Latin
 11. https://www.wikihow.com/Learn-Latin-on-Your-Own - How to learn Latin on your own
-12. https://latin.cactus2000.de/noun/index_en.php cactus2000 Declesion tables and online declesion 
+12. https://latin.cactus2000.de/noun/index_en.php cactus2000 Declesion tables and online declesion
 
 
 
@@ -228,6 +227,13 @@ Latin (the site is down from a year, hopefully will be restored)
 7.	http://polymath.org/ - Language Lessons
 
 8.	http://lingohut.com/en/ - Learn a new language
+
+9.  https://www.soespanhol.com.br/conteudo/indice.php - Gramática espanhola
+
+10. https://www.portalsaofrancisco.com.br/espanhol/fonetica-espanhol - Fonética do espanhol
+11. http://liceu.uab.es/~joaquim/applied_linguistics/L2_phonetics/Fonetica_contrastiva/ital_esp/ital_esp.html Descripción fonética y fonológica contrastiva del español y del italiano
+
+
 
 
 ## English

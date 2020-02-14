@@ -525,6 +525,21 @@ Exam - are any exams?
 
 Exam - CELGA C1
 
+<style>
+progress[value]::-webkit-progress-value {
+  background-image:
+	   -webkit-linear-gradient(-45deg,
+	                           transparent 33%, rgba(0, 0, 0, .1) 33%,
+	                           rgba(0,0, 0, .1) 66%, transparent 66%),
+	   -webkit-linear-gradient(top,
+	                           rgba(255, 255, 255, .25),
+	                           rgba(0, 0, 0, .25)),
+	   -webkit-linear-gradient(left, #09c, #f44);
+
+    border-radius: 2px;
+    background-size: 35px 20px, 100% 100%, 100% 100%;
+}
+</style>
 <label for="galician-progress">Estimated progress:</label>
 <progress id="galician-progress" value="10" max="100"> 10% </progress>
 

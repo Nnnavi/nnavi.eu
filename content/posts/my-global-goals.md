@@ -1,5 +1,5 @@
 +++
-title =  "Thoughts abiut my global goals"
+title =  "Thoughts about my global goals"
 tags = ["languages", "english"]
 date = "2020-02-08"
 disableToc = "false"
