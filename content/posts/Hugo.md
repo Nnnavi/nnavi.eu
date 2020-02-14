@@ -22,7 +22,7 @@ summary = "My to-do list for this site development."
 - [x] summary for posts in section list pages - new section layout
 - [] copyright and year with shortcode
 - [] add country flags to the post markdown shown in lists and flag button in the sidebar instead of link
-- [] add contact form
+- [x] add contact form
 - [x] add archetypes
 - [] some new css, reorganize layouts, add more partials
 - [] experimenting with new fonts
