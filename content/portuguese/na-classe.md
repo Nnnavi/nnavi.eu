@@ -1,6 +1,6 @@
 +++
 title = "Na Classe"
-date = 2020-02-19T23:04:53+02:00
+date = "2020-02-20"
 draft = "false"
 tags = ["portuguese","languages"]
 disableToc = "false"
@@ -9,7 +9,7 @@ lastmod = "2020-02-19T23:04:53+02:00"
 publishDate = "2020-02-20"
 summary = "o meu segundo post em português"
 +++
-##
+
 
 
 
