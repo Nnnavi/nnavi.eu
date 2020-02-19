@@ -10,9 +10,6 @@ publishDate = "2020-02-20"
 summary = "o meu segundo post em português"
 +++
 
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
@@ -80,7 +77,7 @@ Hoje é minha primeira classe do português. Eu faço um programa escolar para a
 
 <audio controls="" class="audio_controls " preload="metadata" style="">
 
-<source src="/portuguese/na-classe/na-classe.mp3">
+<source src="static/portuguese/na-classe/na-classe.mp3">
 
 Your browser does not support the audio element
 </audio>
