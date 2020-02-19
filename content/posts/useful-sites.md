@@ -64,6 +64,7 @@ Portuguese
 26. http://www.linguateca.pt/
 
 27. http://www.corpusdoportugues.org/
+28. www.ponto.altervista.org - O novo ponto da encontro
 
 
 ## Spanish
@@ -186,6 +187,7 @@ Internazionale
 7.	http://www.lingua.gal/o-galego/aprendelo/celga-1/aula-de-galego/alumnado - O portal da lingua galega
 
 8.	http://ilg.usc.es/pronuncia/ - Dicionario de pronuncia da lingua galega
+
 
 
 
