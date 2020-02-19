@@ -6,7 +6,7 @@ tags = ["portuguese","languages"]
 disableToc = "false"
 show_comments = false
 lastmod = "2020-02-20"
-publishDate = "2020-02-20"
+publishDate = "2020-02-19"
 summary = "o meu segundo post em português"
 +++
 
