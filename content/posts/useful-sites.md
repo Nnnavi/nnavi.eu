@@ -188,6 +188,8 @@ Internazionale
 
 8.	http://ilg.usc.es/pronuncia/ - Dicionario de pronuncia da lingua galega
 
+9. https://academia.gal/dicionario - Dicionario de RAG
+10. http://tradutorgaio.xunta.gal/TradutorPublico/traducir/index# GAIO tradutor automático entre galego, castelán, portugués,inglés,francés, catalán
 
 
 
