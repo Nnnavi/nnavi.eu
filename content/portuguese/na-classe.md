@@ -93,10 +93,11 @@ Your browser does not support the audio element
   display: inline-block;
   font-size: 16px;
   transition-duration: 0.4s;
+  cursor: pointer;
 }
   .btn:hover {
-  background-color: #57cc8a; /* Green */
-  color: white;
+  background-color: white; /* Green */
+  color: black;
 
 }
 </style>
