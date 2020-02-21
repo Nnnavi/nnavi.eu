@@ -85,7 +85,7 @@ Your browser does not support the audio element
 <div id="waveform"></div>
 
 <div style="text-align: center">
-  <button class="btn btn-primary" onclick="wavesurfer.playPause()">
+  <button class="btn " onclick="wavesurfer.playPause()">
     <i class="glyphicon glyphicon-play"></i>
     Play
   </button>
