@@ -80,3 +80,5 @@ Hoje é minha primeira classe do português. Eu faço um programa escolar para a
 <source src="/portuguese/na-classe/na-classe.mp3">
 Your browser does not support the audio element
 </audio>
+
+<script>wavesurfer.load('/portuguese/na-classe/na-classe.mp3');</script>
