@@ -94,7 +94,7 @@ Your browser does not support the audio element
   font-size: 16px;
   transition-duration: 0.4s;
   cursor: pointer;
-  border-radius: 12px;
+  border-radius: 40px;
 }
   .btn:hover {
   background-color: white; /* Green */
