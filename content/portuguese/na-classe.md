@@ -81,10 +81,11 @@ Hoje é minha primeira classe do português. Eu faço um programa escolar para a
 Your browser does not support the audio element
 </audio>
 
+
 <script>
 var wavesurfer = WaveSurfer.create({
   container: '#waveform',
   waveColor: 'green',
-  progressColor: 'purple'
+  progressColor: 'red'
 });
 wavesurfer.load('/portuguese/na-classe/na-classe.mp3');</script>
