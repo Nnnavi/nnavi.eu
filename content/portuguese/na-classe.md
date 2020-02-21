@@ -86,12 +86,18 @@ Your browser does not support the audio element
 <style> .btn{
   background-color: #57cc8a; /* Green */
   border: none;
-  color: inherit;
+  color: black;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  transition-duration: 0.4s;
+}
+  .btn:hover {
+  background-color: #57cc8a; /* Green */
+  color: white;
+
 }
 </style>
 <div style="text-align: center">
