@@ -112,4 +112,4 @@ var wavesurfer = WaveSurfer.create({
   waveColor: '#57cc8a',
   progressColor: 'red'
 });
-wavesurfer.load('/portuguese/na-classe/na-classe.mp3');</script>
+wavesurfer.load('/galician/galician.mp3');</script>
