@@ -26,14 +26,14 @@ summary = ""
 <table class="tg">
   <tr>
     <th class="tg-rvyq"><img src="/flags/galego32.png" alt="eng"></th>
-    <th class="tg-4erg"></th>
+    <th class="tg-4erg">minutos</th>
     <th class="tg-4erg">Tempo</th>
       <th class="tg-4erg">Notas</th>
   </tr>
   <tr>
     <td class="tg-7btt">1.</td>
     <td class="tg-fymr">Gramática/Leccións</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">180</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -45,13 +45,13 @@ summary = ""
   <tr>
     <td class="tg-7btt">3.</td>
     <td class="tg-fymr">Escoitar</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">10</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-fymr">4.</td>
     <td class="tg-fymr">Escribir</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">30</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ summary = ""
   <tr>
     <td class="tg-fymr">6.</td>
     <td class="tg-fymr">Vocabulario</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">30</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
