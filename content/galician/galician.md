@@ -77,7 +77,7 @@ summary = ""
 
 O meu primeiro contacto co galego
 
-Non me lembro cando souben a existencia da lingua galega. Cando estaba no ensino medio, había un mapa de autonomía en España na cuarta lección do libro de texto, pero non había ningunha explicación. Cando estiven na universidade interesoume pola historia, cultura e literatura de España e logo lin sobre a poesía galega na Idade Media. Despois descubrín sobre Santiago de Compostela, sobre Camiño, que na Galia tocan gaitas (ao longo de Evia), que antes vivían os celtas e que nesta rexión de España hai unha cultura, historia e literatura moi ricas. Cando descubrín que Galicia tiña o seu idioma, tiven moita curiosidade en escoitalo. Gústame moito a lingua galega.
+Non me lembro cando souben a existencia da lingua galega. Cando estaba no ensino medio, había un mapa de autonomía en España na cuarta lección do libro de texto, pero non había ningunha explicación. Cando estiven na universidade interesoume pola historia, cultura e literatura de España e logo lin sobre a poesía galega na Idade Media. Despois descubrín sobre Santiago de Compostela, sobre Camiño, que na Galicia tocan gaitas (ao longo de Hevia), que antes vivían os celtas e que nesta rexión de España hai unha cultura, historia e literatura moi ricas. Cando descubrín que Galicia tiña o seu idioma, tiven moita curiosidade en escoitalo. Gústame moito a lingua galega.
 
 
 <div id="waveform"></div>
