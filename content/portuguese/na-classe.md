@@ -83,7 +83,17 @@ Your browser does not support the audio element
 </audio>
 
 <div id="waveform"></div>
-
+<style> btn{
+  background-color: #57cc8a; /* Green */
+  border: none;
+  color: inherit;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+</style>
 <div style="text-align: center">
   <button class="btn " onclick="wavesurfer.playPause()">
     <i class="glyphicon glyphicon-play"></i>
