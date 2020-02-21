@@ -93,7 +93,7 @@ Your browser does not support the audio element
 <script>
 var wavesurfer = WaveSurfer.create({
   container: '#waveform',
-  waveColor: 'green',
+  waveColor: '#57cc8a',
   progressColor: 'red'
 });
 wavesurfer.load('/portuguese/na-classe/na-classe.mp3');</script>
