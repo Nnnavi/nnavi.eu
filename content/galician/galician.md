@@ -1,7 +1,7 @@
 +++
 title = "Galician"
 date = 2020-02-21T23:28:33+02:00
-draft = "true"
+draft = "false"
 tags = ["galician","languages"]
 disableToc = "false"
 show_comments = false
