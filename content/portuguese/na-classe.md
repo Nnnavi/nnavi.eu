@@ -83,7 +83,7 @@ Your browser does not support the audio element
 </audio>
 
 <div id="waveform"></div>
-<style> btn{
+<style> .btn{
   background-color: #57cc8a; /* Green */
   border: none;
   color: inherit;
