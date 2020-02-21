@@ -9,7 +9,8 @@ lastmod = "2020-02-20"
 publishDate = "2020-02-19"
 summary = "o meu segundo post em português"
 +++
-
+<!-- main wavesurfer.js lib -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/2.0.5/wavesurfer.min.js"></script>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -81,7 +82,14 @@ Hoje é minha primeira classe do português. Eu faço um programa escolar para a
 Your browser does not support the audio element
 </audio>
 
+<div id="waveform"></div>
 
+<div style="text-align: center">
+  <button class="btn btn-primary" onclick="wavesurfer.playPause()">
+    <i class="glyphicon glyphicon-play"></i>
+    Play
+  </button>
+</div>
 <script>
 var wavesurfer = WaveSurfer.create({
   container: '#waveform',
