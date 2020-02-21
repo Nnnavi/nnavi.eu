@@ -9,6 +9,8 @@ lastmod = "{{ .Date }}"
 publishDate = "{{ .Date }}"
 summary = ""
 +++
+<!-- main wavesurfer.js lib -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/2.0.5/wavesurfer.min.js"></script>
 
 
 <style type="text/css">
@@ -71,3 +73,43 @@ summary = ""
     <td class="tg-0pky"></td>
   </tr>
 </table>
+
+
+<audio controls="" class="audio_controls" preload="metadata" style="">
+<source src="/portuguese/na-classe/na-classe.mp3">
+Your browser does not support the audio element
+</audio>
+
+<div id="waveform"></div>
+<style> .btn{
+  background-color: #57cc8a; /* Green */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 40px;
+}
+  .btn:hover {
+  background-color: white; /* Green */
+  color: black;
+
+}
+</style>
+<div style="text-align: center">
+  <button class="btn " onclick="wavesurfer.playPause()">
+    <i class="glyphicon glyphicon-play"></i>
+    Play
+  </button>
+</div>
+<script>
+var wavesurfer = WaveSurfer.create({
+  container: '#waveform',
+  waveColor: '#57cc8a',
+  progressColor: 'red'
+});
+wavesurfer.load('/posts/.mp3');</script>
