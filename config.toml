@@ -1,7 +1,7 @@
 baseURL = "https://www.nnavi.eu"
 languageCode = "en-us"
 title = "My language diaries"
-theme = "hugo-theme-nnavi"
+theme = ["hugo-theme-nnavi","reveal-hugo"]
 [params]
 author = "Nnavi"
 description = "На мама и татко. Обичам ви!"
@@ -9,6 +9,10 @@ avatar = "avatar.jpg"
 dateFormat = "Mon, Jan 2, 2006"
 intro = true
 
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
 
  [[params.social]]
 
