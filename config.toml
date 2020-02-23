@@ -13,6 +13,8 @@ intro = true
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+[params.reveal_hugo]
+theme = "moon"
 
  [[params.social]]
 
