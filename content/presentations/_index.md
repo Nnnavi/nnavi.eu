@@ -1,5 +1,5 @@
 +++
-title = "Section presentation example"
+title = "Section"
 outputs = ["Reveal"]
 [reveal_hugo]
 theme = "night"
