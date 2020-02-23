@@ -14,7 +14,7 @@ baseName = "index"
 mediaType = "text/html"
 isHTML = true
 [params.reveal_hugo]
-theme = "moon"
+theme = "night"
 
  [[params.social]]
 
