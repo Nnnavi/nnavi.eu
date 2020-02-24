@@ -87,5 +87,9 @@ theViewer.defaultViewer = new theViewer.Viewer({});
 <div class="loading-indicator">
 
 </div>
+<script src="js/reveal.js"></script>
+<script>
+Reveal.initialize();
+</script>
 </body>
 </html>
