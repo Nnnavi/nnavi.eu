@@ -6,6 +6,10 @@ disableToc = "true"
 summary = "Galego"
 draft= "false"
 publishDate="2020-02-23"
+output=["Reveal"]
+[reveal-hugo]
+theme="night"
+margin="0.2"
 +++
 
 
