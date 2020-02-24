@@ -4,6 +4,8 @@ tags = ["galician"]
 date = "2020-02-23"
 disableToc = "true"
 summary = "Galego"
+draft= "false"
+publishDate="2020-02-23"
 +++
 
 
