@@ -6,7 +6,7 @@ theme = ["hugo-theme-nnavi","reveal-hugo"]
 author = "Nnavi"
 description = "На мама и татко. Обичам ви!"
 avatar = "avatar.jpg"
-dateFormat = "Mon, Jan 2, 2006"
+dateFormat = "Jan 2, Mon, 2006"
 intro = true
 
 [outputFormats.Reveal]
