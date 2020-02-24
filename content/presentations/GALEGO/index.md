@@ -8,7 +8,7 @@ draft= "false"
 publishDate="2020-02-23"
 output=["Reveal"]
 [reveal-hugo]
-theme="night"
+theme="reveal-hugo"
 margin="0.2"
 +++
 
