@@ -1,3 +1,12 @@
++++
+title = "Galego"
+tags = ["galician"]
+date = "2020-02-23"
+disableToc = "true"
+summary = "Galego"
++++
+
+
 <!DOCTYPE html>
 <!-- Created by pdf2htmlEX (https://github.com/coolwanglu/pdf2htmlex) -->
 <html xmlns="http://www.w3.org/1999/xhtml">
