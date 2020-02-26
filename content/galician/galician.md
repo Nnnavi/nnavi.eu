@@ -7,7 +7,7 @@ disableToc = "false"
 show_comments = false
 lastmod = "2020-02-21T23:28:33+02:00"
 publishDate = "2020-02-21T23:28:33+02:00"
-summary = ""
+summary = "O meu primeiro contacto co galego"
 +++
 
 <!-- main wavesurfer.js lib -->
