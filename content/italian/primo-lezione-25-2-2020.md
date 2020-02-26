@@ -1,5 +1,5 @@
 +++
-title = "Primo Lezione 25 2 2020"
+title = "Prima Lezione 25 2 2020"
 date = 2020-02-26T19:55:29+02:00
 draft = "false"
 tags = ["italian","languages"]
