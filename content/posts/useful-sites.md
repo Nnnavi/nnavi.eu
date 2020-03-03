@@ -269,6 +269,7 @@ written words into an MP3 audio file
 
 5.	http://www.transparent.com/language-resources/tests.html - Proficiency tests
 6.	http://www.cram.com/ - Cram.com flashcards
+7.  https://www.languagementoring.com/ - Lýdia Machová polyglot site 
 
 
 
