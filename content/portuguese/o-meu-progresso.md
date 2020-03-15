@@ -7,7 +7,7 @@ disableToc = "false"
 show_comments = false
 lastmod = "2020-03-15T21:42:15+02:00"
 publishDate = "2020-03-15T21:42:15+02:00"
-summary = ""
+summary = "O meu progresso com português."
 +++
 
 19.02.2020 - 15.03.2020
@@ -32,8 +32,8 @@ summary = ""
   <tr>
     <td class="tg-7btt">1.</td>
     <td class="tg-fymr">Gramática/Lições</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Gramática Ativa 1</td>
+    <td class="tg-0pky">6horas</td>
+    <td class="tg-0pky">Gramática Ativa 1 e 40 leçons pour... até 12 lição</td>
   </tr>
   <tr>
     <td class="tg-7btt">2.</td>
@@ -62,7 +62,7 @@ summary = ""
   <tr>
     <td class="tg-fymr">6.</td>
     <td class="tg-fymr">Vocabulário</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">320 palavras e frases novas</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -73,4 +73,4 @@ summary = ""
   </tr>
 </table>
 
-Estas semanas tenho leido um pouco do livro "Breve história de Portugal". Escuto o canal de YouTube "Practice Portuguese" - A lenda da rainha Santa Isabel.Não sei porquê mas é muito difícil. Não posso entender tudo. Escuto também Euronews em português - é mais fácil para mim de A lenda de rainha Santa Isabel. Euronews não é muito interessante mas é muito útil. As notícias repitem-se muitas vezes e posso entender muito. Faço exerciciosde Gramática Ativa 1. Deve facer flashcards com números em português com pronúncia correta. 
+Estas semanas tenho leido um pouco do livro "Breve história de Portugal". Escuto o canal de YouTube "Practice Portuguese" - A lenda da rainha Santa Isabel.Não sei porquê mas é muito difícil. Não posso entender tudo. Escuto também Euronews em português - é mais fácil para mim de A lenda de rainha Santa Isabel. Euronews não é muito interessante mas é muito útil. As notícias repitem-se muitas vezes e posso entender muito. Faço exerciciosde Gramática Ativa 1. Deve facer flashcards com números em português com pronúncia correta.
