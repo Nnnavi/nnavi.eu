@@ -12,7 +12,7 @@ summary = "O meu progresso com livros portugueses."
 
 <label for="Португалска граматика">Португалска граматика (Маргарита Дренска):</label>
 <progress id="english-progress" value="257" max="257"> 100% </progress>
-16.06.2016
+16.06.2016 <br>
 <label for="english-progress">Кратка португалска граматика (Д. Ангелов):</label>
 <progress id="english-progress" value="188" max="188"> 100% </progress>27.07.2015
 <label for="english-progress">Научи сам португалски - пълен курс (Мануела Кук)</label>
