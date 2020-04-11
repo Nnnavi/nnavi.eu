@@ -9,7 +9,7 @@ lastmod = "2020-04-11"
 publishDate = "2020-04-11"
 summary = "Libros de gramáticas lidos."
 +++
-![Example image](static/galician/AdG1.png)
+![Example image](/static/galician/AdG1.png)
 <label for="Португалска граматика">Aula de galego 1:</label>
 <progress id="english-progress" value="10" max="100"> 100% </progress>
  <br>
