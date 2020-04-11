@@ -12,6 +12,8 @@ summary = "Libros de gramáticas lidos."
 
 ![Example image](/static/galician/AdG1.png)
 
+<img src="/static//galician/AdG1.png" />
+
 <label for="Португалска граматика">Aula de galego 1:</label>
 <progress id="english-progress" value="10" max="100"> 100% </progress>
  <br>
