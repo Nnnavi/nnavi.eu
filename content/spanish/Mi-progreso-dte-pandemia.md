@@ -75,6 +75,7 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
   </tr>
 </table>
 
+## Libros
 
 <label for="libro">Portuñol - Spanish and Portuguese: a deadly kiss:</label>
 <progress id="spanish-progress" value="140" max="151"> 100% </progress>
@@ -85,5 +86,40 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
 <label for="libro">Manual de fonética española:</label>
 <progress id="spanish-progress" value="70" max="155"> 100% </progress>
 <br>
+<label for="libro">Manual de gramática italiana:</label>
+<progress id="spanish-progress" value="54" max="291"> 100% </progress>
+<br>
+
+## Artículos leídos en línea
+|---------------------------------------------------------|-----|------|
+|Distanciamiento físico - Wikipedia                       |C2	  |2,620 |
+|Coronavirus: ¿qué le hace el covid-19 a tu cuerpo? - BBC News Mundo |C1|		1,290	|
+|Jornada Nacional de Sana Distancia - Wikipedia           |C2		|	1,990	|
+|Jornada Nacional de Sana Distancia - Wikipedia           |C2		|	103	|
+|Coronavirus: cuáles son los principales síntomas de covid-19 y cómo puedes pro...|C1|		644	|
+|Coronavirus: el conmovedor gesto de los médicos que llevan sus fotos sonriendo...
+C1		i.vladimirov	672	Completed
+Por qué hay cuerpos en las calles de Guayaquil en medio de la pandemia de coro...
+C2		i.vladimirov	921	Completed
+Coronavirus | Desde Ecuador: el drama de Guayaquil, una de las ciudades más go...
+C1		i.vladimirov	92	Completed
+Coronavirus: científicos de Corea del Sur aseguran que no es posible contagiar...
+C1		i.vladimirov	267	Completed
+María José Sierra, la sustituta de Fernando Simón al frente de la crisis del c...
+C2		i.vladimirov	589	Completed
+Coronavirus: qué es la carga viral de los pacientes y por qué pone en peligro ...
+C1		i.vladimirov	1,070	Completed
+Coronavirus: cómo son las 6 vacunas contra el virus que ya se están probando e...
+C1		i.vladimirov	1,400	Completed
+Coronavirus: por qué los virus son tan difíciles de tratar en comparación con ...
+C1		i.vladimirov	1,180	Completed
+Impacto del coronavirus en EE.UU.: las largas y sorprendentes colas ante los b...
+B2		i.vladimirov	2,030	Completed
+Coronavirus en Cuba: cómo funciona el agresivo modelo de vigilancia epidemioló...
+C1		i.vladimirov	2,330	Completed
+Así es Fernando Simón, el hombre que tranquiliza a España sobre el Coronavirus
+C2		i.vladimirov	589	Completed
+
+## Pruebas de vocabulario en línea
 
  Un test en línea de mi vocabulario estima que yo sepa 6 520 palabras. Eso es equivalente a niño de 10 años. Otro test en línea estima que yo conozca 21% de palabras del español. "Este es el nivel de una persona no nativa con un nivel alto.". Pero mi vocabulario del inglés tiene más de 9 300 palabras que significa que tengo que aumentar drásticamente mi vocabulario del español.
