@@ -46,8 +46,8 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
   <tr>
     <td class="tg-7btt">3.</td>
     <td class="tg-fymr">Escuchar</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">154h</td>
+    <td class="tg-0pky">3,66h por día</td>
   </tr>
   <tr>
     <td class="tg-fymr">4.</td>
@@ -74,3 +74,16 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
     <td class="tg-0pky"></td>
   </tr>
 </table>
+
+
+<label for="libro">Portuñol - Spanish and Portuguese: a deadly kiss:</label>
+<progress id="spanish-progress" value="140" max="151"> 100% </progress>
+<br>
+<label for="libro">Aventuras de Sherlock Holmes:</label>
+<progress id="spanish-progress" value="24" max="332"> 100% </progress>
+<br>
+<label for="libro">Manual de fonética española:</label>
+<progress id="spanish-progress" value="70" max="155"> 100% </progress>
+<br>
+
+ Un test en línea de mi vocabulario estima que yo sepa 6 520 palabras. Eso es equivalente a niño de 10 años. Otro test en línea estima que yo conozca 21% de palabras del español. "Este es el nivel de una persona no nativa con un nivel alto.". Pero mi vocabulario del inglés tiene más de 9 300 palabras que significa que tengo que aumentar drásticamente mi vocabulario del español.
