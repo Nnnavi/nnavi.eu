@@ -104,14 +104,14 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
 .tg .tg-h09u{background-color:inherit;border-color:inherit;color:#777;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
+<tbody>
   <tr>
     <th class="tg-mfxq">Distanciamiento físico - Wikipedia, la enciclopedia libre<br></th>
-    <th class="tg-jxgv">C2</th>
+    <th class="tg-h09u">C2</th>
     <th class="tg-0ys1">2,620</th>
   </tr>
-</thead>
-<tbody>
+
+
   <tr>
     <td class="tg-mfxq"><a href="https://readlang.com/library/5eada500ddcb09b2dc07e16c">Coronavirus: ¿qué le hace el covid-19 a tu cuerpo? - BBC News Mundo</a><br></td>
     <td class="tg-h09u"><span style="color:#777">C1</span></td>
