@@ -10,9 +10,6 @@ publishDate = "2020-05-31"
 summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pandemia de COVID-19. Piensas sobre un modelo de escribir informes. Período 16.03.2020-26.04.2020 en total 42 días."
 +++
 
-##
-
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -34,8 +31,8 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
   <tr>
     <td class="tg-7btt">1.</td>
     <td class="tg-fymr">Gramática/Lecciones</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">3h</td>
+    <td class="tg-0pky">el yeísmo</td>
   </tr>
   <tr>
     <td class="tg-7btt">2.</td>
@@ -52,7 +49,7 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
   <tr>
     <td class="tg-fymr">4.</td>
     <td class="tg-fymr">Escribir</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">3h</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -64,7 +61,7 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
   <tr>
     <td class="tg-fymr">6.</td>
     <td class="tg-fymr">Vocabulario</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">3 días</td>
     <td class="tg-0pky">vocabulario de COVID-19</td>
   </tr>
   <tr>
@@ -80,15 +77,27 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
 <label for="libro">Portuñol - Spanish and Portuguese: a deadly kiss:</label>
 <progress id="spanish-progress" value="140" max="151"> 100% </progress>
 <br>
+
+Este libro es muy interesante. Consiste de tres artículos sobre portuñol - dos en portugués y uno en español. El último es el mayor y hace una comparación muy interesante entre portuñol en América Latina (fronterizo) y  barranqueño en Portugal (Europa). Este libro me ayuda mucho cuando yo escuchaba las noticias sobre Brasil que estaban anunciadas de reporteros brasilianos en español en noticieros españoles. Mucho tiempo no puedo entender nada cuando hablen personas en entrevistas por la TV de algunas regiones - el "s" aspirado o falta, las palabras de portugués y algunos arcaísmos.
+
 <label for="libro">Aventuras de Sherlock Holmes:</label>
 <progress id="spanish-progress" value="24" max="332"> 100% </progress>
 <br>
+
+Este libro contiene tres novelas con Sherlock Holmes - Estudio en escarlata ; El valle del terror y La aventura de un escándalo en Bohemia. Es un libro un poco difícil para mi. Pero quiero leer más y hacer listos con palabras nuevas para aprender más.
+
 <label for="libro">Manual de fonética española:</label>
 <progress id="spanish-progress" value="70" max="155"> 100% </progress>
 <br>
+
+Este libro es un manual un poco viejo escrito en búlgaro sobre la fonética española. Me gusta mucho porqué explica como se producen los sonidos en español incluso algunos que son un poco difíciles para mi. Sé que hay una diferencia entre "ll" e "y" - el notorio yeísmo. Pero no sé cual se pronuncia como "й" en búlgaro (o [j] en IPA). Hay muchos ejercicios y textos para leer en voz alta.
+
 <label for="libro">Manual de gramática italiana:</label>
 <progress id="spanish-progress" value="54" max="291"> 100% </progress>
 <br>
+
+Este gramática italiana está escrita en español. Para mi esto es muy importante. Quiero no mezclar las lenguas romances y por eso decidí leer más libros en dos idiomas romances. Esta gramática es fantástica porqué explica contrastes entre las dos lenguas.
+
 
 ## Artículos leídos en línea
 
@@ -193,6 +202,8 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
   </tr>
 </tbody>
 </table></div>
+
+Hay otros artículos no incluido aquí que yo leía fuera de Readlang. Escribía muchas palabras en uno cuaderno y no con Readlang porqué Google translate tradujo incorrecto muchas palabras y frases. Además buscaba con Google los matices y significaciones de algunas palabras en varios sitios web.
 
 ## Pruebas de vocabulario en línea
 
