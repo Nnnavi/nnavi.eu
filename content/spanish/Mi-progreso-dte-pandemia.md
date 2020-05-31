@@ -101,17 +101,21 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
 .tg .tg-0ys1{background-color:inherit;border-color:inherit;text-align:left;vertical-align:middle}
 .tg .tg-jxgv{background-color:inherit;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-mfxq{background-color:inherit;border-color:inherit;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-h09u{background-color:inherit;border-color:inherit;color:#777;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+.tg .tg-h09u{background-color:inherit;border-color:inherit;color:#777;text-align:left;vertical-align:middle}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
 <tbody>
+<tr>
+  <td class="tg-0ys1">Artículo leído en Readlang<br></td>
+  <td class="tg-0ys1">nivel</td>
+  <td class="tg-0ys1">palabras contadas</td>
+</tr>
+<tr>
   <tr>
-    <th class="tg-mfxq">Distanciamiento físico - Wikipedia, la enciclopedia libre<br></th>
-    <th class="tg-h09u">C2</th>
-    <th class="tg-0ys1">2,620</th>
+    <td class="tg-mfxq"><a href="https://readlang.com/library/5eaf39702c7cec74e96f75f8">Distanciamiento físico - Wikipedia, la enciclopedia libre<br></td>
+    <td class="tg-h09u"><span style="color:#777">C2</td>
+    <td class="tg-0ys1">2,620</td>
   </tr>
-
-
   <tr>
     <td class="tg-mfxq"><a href="https://readlang.com/library/5eada500ddcb09b2dc07e16c">Coronavirus: ¿qué le hace el covid-19 a tu cuerpo? - BBC News Mundo</a><br></td>
     <td class="tg-h09u"><span style="color:#777">C1</span></td>
@@ -188,7 +192,7 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
     <td class="tg-0ys1">589</td>
   </tr>
 </tbody>
-</table>
+</table></div>
 
 ## Pruebas de vocabulario en línea
 
