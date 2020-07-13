@@ -3,6 +3,7 @@ title = "Mi primer artículo"
 tags = ["welcome","spanish"]
 date = "2020-01-30"
 disableToc = "false"
+align = "left"
 summary = "Mi primo puesto en español descubre porqué amo la lengua. Mas de 20 años estudiando este idioma y sigue atraerme."
 +++
 
@@ -12,7 +13,12 @@ Este es mi primo puesto en español. El idioma español es "la lengua de mi cora
 
 ## En la escuela
 
-Tuve la mi primera clase cuando era en 9 grado en el 1997. No puedo olvidar el primer día. Éramos un grupo de toda la escuela y debíamos organizarnos en dos grupos. Cada un grupo consistía de estudiantes de dos clases. La profesora nos explicaba sobre el alfabeto español y la pronunciación. Yo estaba muy feliz. La nuestra profesora era muy joven y guapa. Estudiábamos español con ella cuatro años. Al fin ella elogió nuestro grupo que alcanzáramos los mejores éxitos. Habíamos dos horas por la semana y nuestro manual era Español 2000 nivel elemental. Este libro fue bastante caro porque estaba importado de España (entonces Bulgaria aún no fue parte de UE). Recuerdo que mi padre me regaló un diccionario español-búlgaro, un diccionario pequeño búlgaro-español y una gramática española escrita en búlgaro. Este regalo lo recordé por toda mi vida. Entonces comencé mi práctica de repaso todas las palabras aprendidas cada año con flashcards. Yo no sabía que esta práctica se llama "learn with flashcards" pero la vi de alguien. Yo hacía pequeñas papeles de cajón y escribía a ellas una palabra en español en la primera cara y su traducción en búlgaro en la segunda cara. Y después hacía una lotería - ponía una papel y tentaba adivinar la palabra de otra cara. Por cuatro años podíamos aprender 21 lecciones de 23 lecciones total. En estas lecciones estudiábamos todos tiempos de Indicativo e Imperativo y algunos perífrasis verbales. Este manual tiene otros dos niveles - medio y superior. Tres años después de la escuela cuando era en la universidad descubrí este libros en la Consejería de la Embajada de España en Sofia. Pero estos libros no eran de misma edición y el contenudo no era lo mismo.
+Tuve la mi primera clase cuando era en 9 grado en el 1997. No puedo olvidar el primer día. Éramos un grupo de toda la escuela y debíamos organizarnos en dos grupos. Cada un grupo consistía de estudiantes de dos clases. La profesora nos explicaba sobre el alfabeto español y la pronunciación. Yo estaba muy feliz. La nuestra profesora era muy joven y guapa. Estudiábamos español con ella cuatro años. Al fin ella elogió nuestro grupo que alcanzáramos los mejores éxitos. Habíamos dos horas por la semana y nuestro manual era Español 2000 nivel elemental
+![Español2000](/espanol2000.jpg#left)
+Este libro fue bastante caro porque estaba importado de España (entonces Bulgaria aún no fue parte de UE). Recuerdo que mi padre me regaló un diccionario español-búlgaro, un diccionario pequeño búlgaro-español y una gramática española escrita en búlgaro. Este regalo lo recordé por toda mi vida.
+![bul-esp-dicc](/diccionario-bulgaro-espanol-pequeno.jpg#left)
+![dicc-esp-bul](/diccionario-espanol-bulgaro.jpg)
+![gram1](/mi-primera-gramatica-espanola.jpg)Entonces comencé mi práctica de repaso todas las palabras aprendidas cada año con flashcards. Yo no sabía que esta práctica se llama "learn with flashcards" pero la vi de alguien. Yo hacía pequeñas papeles de cajón y escribía a ellas una palabra en español en la primera cara y su traducción en búlgaro en la segunda cara. Y después hacía una lotería - ponía una papel y tentaba adivinar la palabra de otra cara. Por cuatro años podíamos aprender 21 lecciones de 23 lecciones total. En estas lecciones estudiábamos todos tiempos de Indicativo e Imperativo y algunos perífrasis verbales. Este manual tiene otros dos niveles - medio y superior. Tres años después de la escuela cuando era en la universidad descubrí este libros en la Consejería de la Embajada de España en Sofia. Pero estos libros no eran de misma edición y el contenudo no era lo mismo.
 
 ## En la universidad
 
@@ -33,5 +39,3 @@ Ahora - seis años después de mis lecciones privados yo empecé a escuchar podc
 2. Lo leeré otra vez buscando errores
 3. Lo leeré en voz alta para practicar la lengua y mejorar mi pronunciación. Grabaré esta lectura para buscar errores y por dictados en futuro.
 4. Escucharé esta lectura por dictados o solo abriré este puesto en MS Edge browser y el browser leeré en voz alta este puesto con velocidad media.
-
-<progress max="100" value="80"></progress>
