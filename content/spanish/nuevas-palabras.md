@@ -78,7 +78,7 @@ summary = "Mi avance durante verano."
 
 Durante este período escuché mucho español de antes. Pero este es por causa de menos tiempo por portugués e italiano. Vi noticias, reportajes y documentales. Creo que tengo que ver muchas vídeos - lecciones y explicaciones sobre español, su historia y desarrollo, fonética. También tengo que ver muchas vídeos sobre otros temas lingüísticos - por elemplo latín, fonética, gramática histórica, latín vulgar, etc.  Quiero prepararse por examen DELE y por eso debo leer más periódicos, libros y textos de internet.
 
-## Nuevas palabras extraídos de medias
+## Nuevas palabras extraídas de medias
 
 
 <style type="text/css">
@@ -104,35 +104,35 @@ Durante este período escuché mucho español de antes. Pero este es por causa d
 <tbody>
   <tr>
     <td class="tg-0pky">por regla general</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">почти винаги; като правило</td>
     <td class="tg-0pky">comunmente, habitualmente</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">personalizar</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">придавам личен характер; позовавам се на личности (в разговор);индивидуализирам</td>
     <td class="tg-0pky">concretar algo de alguien, individualizar</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">en su totalidad</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">напълно, като цяло, в глобален план</td>
     <td class="tg-0pky">completamente, en general, en global</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0lax">inconfundible</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">безпогрешно</td>
     <td class="tg-0lax">es concreto, es diferente,es específico</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">rasgo</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">отличителна черта, белег</td>
     <td class="tg-0lax">el aspecto -
     rasgos físicos o rasgos psicológicos</td>
     <td class="tg-0lax"></td>
@@ -140,56 +140,56 @@ Durante este período escuché mucho español de antes. Pero este es por causa d
   </tr>
   <tr>
     <td class="tg-0lax">centrarse en</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">фокусирам се в</td>
     <td class="tg-0lax">enfocarse en</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">particulizar</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">особено</td>
     <td class="tg-0lax">centrarse en una particularidad; enfocarse en algo</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">pormenorizar</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">sintetizar parte de algo</td>
+    <td class="tg-0lax">описвам, изброявам подробно</td>
+    <td class="tg-0lax">sintetizar parte de algo. Describir o referir una cosa con todo detalle o minuciosamente.</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">inherente</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">присъщ</td>
     <td class="tg-0lax">está dentro de algo; forma parte de una forma especial - "la dureza es inherente de diamante"</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">congénito</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">наследствен, вроден</td>
     <td class="tg-0lax">enfermedades congénitos</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">genérico</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">генерично</td>
     <td class="tg-0lax">no son originario - se usa por medicamentos</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">a largo plazo</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">дългосрочен</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">en todo sentido</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">по всякакъв начин</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
