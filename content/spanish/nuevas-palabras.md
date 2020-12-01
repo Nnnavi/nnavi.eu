@@ -1,12 +1,12 @@
 +++
 title = "Nuevas Palabras"
-date = 2020-11-04T21:03:16+02:00
+date = 2020-12-01T21:03:16+02:00
 draft = "false"
 tags = ["spanish","languages"]
 disableToc = "false"
 show_comments = false
-lastmod = "2020-11-04T21:03:16+02:00"
-publishDate = "2020-11-04T21:03:16+02:00"
+lastmod = "2020-12-01T21:03:16+02:00"
+publishDate = "2020-12-01T21:03:16+02:00"
 summary = ""
 +++
 
@@ -28,7 +28,7 @@ summary = ""
 <table class="tg">
   <tr>
     <th class="tg-rvyq"><img src="/flags/spain32.png" alt="eng"></th>
-    <th class="tg-4erg"></th>
+    <th class="tg-4erg">27.04.2020-27.11.2020 -162 días</th>
     <th class="tg-4erg">Tiempo</th>
       <th class="tg-4erg">Notas</th>
   </tr>
@@ -47,8 +47,8 @@ summary = ""
   <tr>
     <td class="tg-7btt">3.</td>
     <td class="tg-fymr">Escuchar</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">345.36h</td>
+    <td class="tg-0pky">2.13 horas por día</td>
   </tr>
   <tr>
     <td class="tg-fymr">4.</td>
@@ -75,6 +75,8 @@ summary = ""
     <td class="tg-0pky"></td>
   </tr>
 </table>
+
+Durante este período escuché mucho español de antes. Pero este es por causa de menos tiempo por portugués e italiano. Vi noticias, reportajes y documentales. Creo que tengo que ver muchas vídeos - lecciones y explicaciones sobre español, su historia y desarrollo, fonética. También tengo que ver muchas vídeos sobre otros temas lingüísticos - por elemplo latín, fonética, gramática histórica, latín vulgar, etc.  Quiero prepararse por examen DELE y por eso debo leer más periódicos, libros y textos de internet. 
 
 ## Nuevas palabras extraídos de medias
 
@@ -201,3 +203,27 @@ summary = ""
   </tr>
 </tbody>
 </table>
+
+## Libros
+
+<label for="libro">Portuñol - Spanish and Portuguese: a deadly kiss:</label>
+<progress id="spanish-progress" value="151" max="151"> 100% </progress>
+<br>
+
+Este libro es muy interesante. Consiste de tres artículos sobre portuñol - dos en portugués y uno en español. El último es el mayor y hace una comparación muy interesante entre portuñol en América Latina (fronterizo) y  barranqueño en Portugal (Europa). Este libro me ayuda mucho cuando yo escuchaba las noticias sobre Brasil que estaban anunciadas de reporteros brasileños en español en noticieros españoles. Mucho tiempo no puedo entender nada cuando hablen personas en entrevistas por la TV de algunas regiones - el "s" aspirado o falta, las palabras de portugués y algunos arcaísmos.
+
+<label for="libro">Aventuras de Sherlock Holmes:</label>
+<progress id="spanish-progress" value="24" max="332"> 100% </progress>
+<br>
+
+<label for="libro">Manual de fonética española:</label>
+<progress id="spanish-progress" value="70" max="155"> 100% </progress>
+<br>
+
+<label for="libro">Manual de gramática italiana:</label>
+<progress id="spanish-progress" value="54" max="291"> 100% </progress>
+<br>
+
+## Artículos leídos en línea
+
+## Pruebas de vocabulario en línea

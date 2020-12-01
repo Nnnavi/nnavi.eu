@@ -78,7 +78,7 @@ summary = "Mi estimación. Todo lo que pasó y que podía estudiar durante la pa
 <progress id="spanish-progress" value="140" max="151"> 100% </progress>
 <br>
 
-Este libro es muy interesante. Consiste de tres artículos sobre portuñol - dos en portugués y uno en español. El último es el mayor y hace una comparación muy interesante entre portuñol en América Latina (fronterizo) y  barranqueño en Portugal (Europa). Este libro me ayuda mucho cuando yo escuchaba las noticias sobre Brasil que estaban anunciadas de reporteros brasilianos en español en noticieros españoles. Mucho tiempo no puedo entender nada cuando hablen personas en entrevistas por la TV de algunas regiones - el "s" aspirado o falta, las palabras de portugués y algunos arcaísmos.
+Este libro es muy interesante. Consiste de tres artículos sobre portuñol - dos en portugués y uno en español. El último es el mayor y hace una comparación muy interesante entre portuñol en América Latina (fronterizo) y  barranqueño en Portugal (Europa). Este libro me ayuda mucho cuando yo escuchaba las noticias sobre Brasil que estaban anunciadas de reporteros brasileños en español en noticieros españoles. Mucho tiempo no puedo entender nada cuando hablen personas en entrevistas por la TV de algunas regiones - el "s" aspirado o falta, las palabras de portugués y algunos arcaísmos.
 
 <label for="libro">Aventuras de Sherlock Holmes:</label>
 <progress id="spanish-progress" value="24" max="332"> 100% </progress>
