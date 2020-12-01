@@ -7,7 +7,7 @@ disableToc = "false"
 show_comments = false
 lastmod = "2020-12-01T21:03:16+02:00"
 publishDate = "2020-12-01T21:03:16+02:00"
-summary = ""
+summary = "Mi avance durante verano."
 +++
 
 
@@ -76,7 +76,7 @@ summary = ""
   </tr>
 </table>
 
-Durante este período escuché mucho español de antes. Pero este es por causa de menos tiempo por portugués e italiano. Vi noticias, reportajes y documentales. Creo que tengo que ver muchas vídeos - lecciones y explicaciones sobre español, su historia y desarrollo, fonética. También tengo que ver muchas vídeos sobre otros temas lingüísticos - por elemplo latín, fonética, gramática histórica, latín vulgar, etc.  Quiero prepararse por examen DELE y por eso debo leer más periódicos, libros y textos de internet. 
+Durante este período escuché mucho español de antes. Pero este es por causa de menos tiempo por portugués e italiano. Vi noticias, reportajes y documentales. Creo que tengo que ver muchas vídeos - lecciones y explicaciones sobre español, su historia y desarrollo, fonética. También tengo que ver muchas vídeos sobre otros temas lingüísticos - por elemplo latín, fonética, gramática histórica, latín vulgar, etc.  Quiero prepararse por examen DELE y por eso debo leer más periódicos, libros y textos de internet.
 
 ## Nuevas palabras extraídos de medias
 
@@ -223,6 +223,12 @@ Este libro es muy interesante. Consiste de tres artículos sobre portuñol - dos
 <label for="libro">Manual de gramática italiana:</label>
 <progress id="spanish-progress" value="54" max="291"> 100% </progress>
 <br>
+
+<label for="libro">Luna de sangre:</label>
+<progress id="spanish-progress" value="114" max="114"> 100% </progress>
+<br>
+
+Eso es un libro adaptado a nivel B1. Se trata de vampires y una amor. Es algo interesante, hay ejercicios gramaticales, palabras explicadas y un diccionario.
 
 ## Artículos leídos en línea
 
