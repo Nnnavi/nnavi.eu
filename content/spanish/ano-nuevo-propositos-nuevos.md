@@ -1,7 +1,7 @@
 +++
 title = "Ano Nuevo Propositos Nuevos"
 date = 2021-01-01T21:02:22+02:00
-draft = "true"
+draft = "false"
 tags = ["spanish","languages"]
 disableToc = "false"
 show_comments = false
@@ -19,7 +19,7 @@ summary = ""
   3) hacer ejercicios gramaticales (subjuntivo, perífrasis verbales, preposiciones, etc.)
   4) estudiar para el examen DELE usando libros para preparación y leyendo artículos de prensa.
 
-Prefiero enfocarse en comparación entre español e italiano y portugués. También quiero enfocarse en leyendo y escribiendo en español. Debo mantener mi nuevo hábito - escuchar/ver noticias cada día. 
+Prefiero enfocarse en comparación entre español e italiano y portugués. También quiero enfocarse en leyendo y escribiendo en español. Debo mantener mi nuevo hábito - escuchar/ver noticias cada día.
 
 
 

@@ -76,7 +76,7 @@ summary = "Mi avance durante verano."
   </tr>
 </table>
 
-Durante este período escuché mucho español de antes. Pero este es por causa de menos tiempo por portugués e italiano. Vi noticias, reportajes y documentales. Creo que tengo que ver muchas vídeos - lecciones y explicaciones sobre español, su historia y desarrollo, fonética. También tengo que ver muchas vídeos sobre otros temas lingüísticos - por elemplo latín, fonética, gramática histórica, latín vulgar, etc.  Quiero prepararse por examen DELE y por eso debo leer más periódicos, libros y textos de internet.
+Durante este período escuchaba mucho español que antes. Pero este es por causa de menos tiempo por portugués e italiano. Veía noticias, reportajes y documentales. Creo que tengo que ver muchas vídeos - lecciones y explicaciones sobre español, su historia y desarrollo, fonética. También tengo que ver muchas vídeos sobre otros temas lingüísticos - por elemplo latín, fonética, gramática histórica, latín vulgar, etc.  Quiero prepararse por examen DELE y por eso debo leer más periódicos, libros y textos de internet.
 
 ## Nuevas palabras extraídas de medias
 
