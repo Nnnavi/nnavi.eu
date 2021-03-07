@@ -131,75 +131,75 @@ Durante este período escuchaba mucho español que antes. Pero este es por causa
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">rasgo</td>
-    <td class="tg-0lax">отличителна черта, белег</td>
-    <td class="tg-0lax">el aspecto -
+    <td class="tg-0pky">rasgo</td>
+    <td class="tg-0pky">отличителна черта, белег</td>
+    <td class="tg-0pky">el aspecto -
     rasgos físicos o rasgos psicológicos</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">centrarse en</td>
-    <td class="tg-0lax">фокусирам се в</td>
-    <td class="tg-0lax">enfocarse en</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">centrarse en</td>
+    <td class="tg-0pky">фокусирам се в</td>
+    <td class="tg-0pky">enfocarse en</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">particulizar</td>
-    <td class="tg-0lax">особено</td>
-    <td class="tg-0lax">centrarse en una particularidad; enfocarse en algo</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">particulizar</td>
+    <td class="tg-0pky">особено</td>
+    <td class="tg-0pky">centrarse en una particularidad; enfocarse en algo</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">pormenorizar</td>
-    <td class="tg-0lax">описвам, изброявам подробно</td>
-    <td class="tg-0lax">sintetizar parte de algo. Describir o referir una cosa con todo detalle o minuciosamente.</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">pormenorizar</td>
+    <td class="tg-0pky">описвам, изброявам подробно</td>
+    <td class="tg-0pky">sintetizar parte de algo. Describir o referir una cosa con todo detalle o minuciosamente.</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">inherente</td>
-    <td class="tg-0lax">присъщ</td>
-    <td class="tg-0lax">está dentro de algo; forma parte de una forma especial - "la dureza es inherente de diamante"</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">inherente</td>
+    <td class="tg-0pky">присъщ</td>
+    <td class="tg-0pky">está dentro de algo; forma parte de una forma especial - "la dureza es inherente de diamante"</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">congénito</td>
-    <td class="tg-0lax">наследствен, вроден</td>
-    <td class="tg-0lax">enfermedades congénitos</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">congénito</td>
+    <td class="tg-0pky">наследствен, вроден</td>
+    <td class="tg-0pky">enfermedades congénitos</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">genérico</td>
-    <td class="tg-0lax">генерично</td>
-    <td class="tg-0lax">no son originario - se usa por medicamentos</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">genérico</td>
+    <td class="tg-0pky">генерично</td>
+    <td class="tg-0pky">no son originario - se usa por medicamentos</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">a largo plazo</td>
-    <td class="tg-0lax">дългосрочен</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">a largo plazo</td>
+    <td class="tg-0pky">дългосрочен</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">en todo sentido</td>
-    <td class="tg-0lax">по всякакъв начин</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">en todo sentido</td>
+    <td class="tg-0pky">по всякакъв начин</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">contundente</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">contundente</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
 </tbody>
 </table>
