@@ -7,7 +7,7 @@ disableToc = "false"
 show_comments = false
 lastmod = "2021-01-01T21:22:10+02:00"
 publishDate = "2021-01-01T21:22:10+02:00"
-summary = ""
+summary = "My goals in brief for 2021."
 +++
 
 
