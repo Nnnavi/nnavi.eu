@@ -78,7 +78,7 @@ summary = "Mi avance durante verano."
 
 Durante este período escuchaba mucho español que antes. Pero este es por causa de menos tiempo por portugués e italiano. Veía noticias, reportajes y documentales. Creo que tengo que ver muchas vídeos - lecciones y explicaciones sobre español, su historia y desarrollo, fonética. También tengo que ver muchas vídeos sobre otros temas lingüísticos - por elemplo latín, fonética, gramática histórica, latín vulgar, etc.  Quiero prepararse por examen DELE y por eso debo leer más periódicos, libros y textos de internet.
 
-## Nuevas palabras extraídas de medias
+## Nuevas palabras extraídas de medias de comunicación
 
 
 <style type="text/css">
@@ -232,4 +232,8 @@ Eso es un libro adaptado a nivel B1. Se trata de vampires y una amor. Es algo in
 
 ## Artículos leídos en línea
 
+He cambiado la lengua propria de mi buscador en español y lo he ajustado a buscar preferidamente en español, italian, portugués, inglés y búlgaro. Por eso los resultados en primera línea son en español. Así los resultados selectos de Wikipedia son también en español. Eso me ayuda mucho porqué leo mucho Wikipedia. Todavía no he extraído palabras desconocidas de estos textos.
+
 ## Pruebas de vocabulario en línea
+
+He buscado pruebas de vocabulario en línea para medir mi desarrollo. He encontrado algunas pruebas pero no me gustaban. No eran más detallados y los resultados eran muy sencillos. Las tres pruebas me aseguraban que tenía vocabulario de niño de 10 años. Y nada más. 
