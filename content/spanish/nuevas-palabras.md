@@ -124,11 +124,11 @@ Durante este período escuchaba mucho español que antes. Pero este es por causa
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">inconfundible</td>
-    <td class="tg-0lax">безпогрешно</td>
-    <td class="tg-0lax">es concreto, es diferente,es específico</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">inconfundible</td>
+    <td class="tg-0pky">безпогрешно</td>
+    <td class="tg-0pky">es concreto, es diferente,es específico</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0lax">rasgo</td>
