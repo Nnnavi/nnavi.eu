@@ -13,16 +13,16 @@ summary = ""
 
 ## NEW GOALS FOR 2021!
 
-The awful 2020 has gone. I wish to myself more luck, to be healthy, support from my friends and more and enough money.
+The awful 2020 has gone. I wish to myself more luck, to be healthy, more support from my friends and more and enough money.
 
 My main goals are:
 
 1) focus on Italian and Portuguese
 2) maintain Spanish
 3) reading and writing in Spanish
-4) preparing for writing and reading in Italian and portuguese
+4) preparing for writing and reading in Italian and Portuguese
 
-I think that I focused more in Spanish in 2020. Now  I have to spend more time with Italian and Portuguese to strengthen them. I want to feel more confortable when listen/read in Italian and Portuguese.
+I think I focused more in Spanish in 2020. Now I have to spend more time with Italian and Portuguese to strengthen them. I want to feel more comfortably when listen/read in Italian and Portuguese.
 
 ## CHALLENGES
 
@@ -35,7 +35,7 @@ The great challenges are:
 ## PREPARATIONS
 
 1) to use my plan for 2020 - for months after april
-2) to make a list manuals I have to use and to track my progress.
+2) to make a list of manuals I have to use and to track my progress.
 3) make word lists with learned words by topics and textbooks
 4) to make a good progress with my grammar notes on Italian and Portuguese.
 
