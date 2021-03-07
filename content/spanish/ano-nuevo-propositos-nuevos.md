@@ -7,7 +7,7 @@ disableToc = "false"
 show_comments = false
 lastmod = "2021-01-01T21:02:22+02:00"
 publishDate = "2021-01-01T21:02:22+02:00"
-summary = ""
+summary = "Nuevos propósitos en breve"
 +++
 
 ## ¡FELIZ NUEVO 2021 AÑO!
